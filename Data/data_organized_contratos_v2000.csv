@@ -1,0 +1,2001 @@
+ID_Contrato,mes,Regiao_Cliente,Linha_Produto,Qtd_Licencas,Valor_Contrato_BRL,Dias_Fechamento
+TRX-10000,06-Jun,Sudeste,Cibersegurança,1,2605.8,11.0
+TRX-10001,12-Dez,Sul,Licenças SaaS,1,2030.32,27.0
+TRX-10002,10-Out,Nordeste,Licenças SaaS,19,14988.39,20.0
+TRX-10003,08-Ago,Sul,Hardware & Servidores,5,3408.11,9.0
+TRX-10004,03-Mar,Sudeste,Hardware & Servidores,13,5277.71,
+TRX-10005,03-Mar,Centro-Oeste,Cloud & Storage,19,3901.8,9.0
+TRX-10006,01-Jan,Sudeste,Cloud & Storage,12,2151.44,11.0
+TRX-10007,11-Nov,Nordeste,Cloud & Storage,16,5991.71,12.0
+TRX-10008,08-Ago,Sul,Licenças SaaS,25,4696.05,8.0
+TRX-10009,10-Out,Sudeste,Hardware & Servidores,25,2493.4,20.0
+TRX-10010,01-Jan,Sul,Hardware & Servidores,19,5072.42,10.0
+TRX-10011,12-Dez,Sul,Cloud & Storage,3,2739.96,17.0
+TRX-10012,11-Nov,Nordeste,Licenças SaaS,12,1866.98,14.0
+TRX-10013,04-Abr,Sul,Hardware & Servidores,5,1748.16,19.0
+TRX-10014,03-Mar,Sudeste,Cibersegurança,2,4562.1,13.0
+TRX-10015,03-Mar,Sudeste,Cloud & Storage,22,48500.0,9.0
+TRX-10016,05-Mai,Sudeste,Licenças SaaS,7,10158.92,11.0
+TRX-10017,07-Jul,Nordeste,Licenças SaaS,13,3722.23,11.0
+TRX-10018,06-Jun,Sul,Cloud & Storage,25,2297.59,24.0
+TRX-10019,05-Mai,Centro-Oeste,Cloud & Storage,15,4241.11,14.0
+TRX-10020,09-Set,Norte,Cloud & Storage,22,1650.32,14.0
+TRX-10021,03-Mar,Sudeste,Cloud & Storage,3,3623.93,18.0
+TRX-10022,05-Mai,Norte,Licenças SaaS,28,4710.07,14.0
+TRX-10023,06-Jun,Sul,Licenças SaaS,21,4346.76,20.0
+TRX-10024,06-Jun,Sudeste,Licenças SaaS,20,8926.86,12.0
+TRX-10025,11-Nov,Sudeste,Licenças SaaS,5,20710.29,12.0
+TRX-10026,03-Mar,Centro-Oeste,Cloud & Storage,24,5921.87,9.0
+TRX-10027,07-Jul,Norte,Hardware & Servidores,8,8235.57,23.0
+TRX-10028,08-Ago,Sudeste,Licenças SaaS,22,19995.26,14.0
+TRX-10029,01-Jan,Centro-Oeste,Cloud & Storage,1,1990.13,8.0
+TRX-10030,08-Ago,Sul,Licenças SaaS,8,4166.82,15.0
+TRX-10031,03-Mar,Sudeste,Cloud & Storage,24,2805.4,11.0
+TRX-10032,01-Jan,Sudeste,Hardware & Servidores,18,6619.18,12.0
+TRX-10033,12-Dez,Norte,Consultoria Dados,20,4566.73,16.0
+TRX-10034,12-Dez,Sudeste,Hardware & Servidores,28,2248.5,22.0
+TRX-10035,11-Nov,Sudeste,Consultoria Dados,16,3854.96,15.0
+TRX-10036,05-Mai,Sul,Consultoria Dados,18,7559.04,10.0
+TRX-10037,02-Fev,Sul,Licenças SaaS,20,1640.21,11.0
+TRX-10038,09-Set,Sul,Licenças SaaS,12,2279.53,17.0
+TRX-10039,06-Jun,Sudeste,Cibersegurança,13,2067.86,4.0
+TRX-10040,02-Fev,Nordeste,Licenças SaaS,13,4732.26,9.0
+TRX-10041,07-Jul,Sudeste,Cloud & Storage,10,8572.68,15.0
+TRX-10042,01-Jan,Sudeste,Cloud & Storage,7,1036.57,
+TRX-10043,12-Dez,Sul,Cibersegurança,25,4069.84,12.0
+TRX-10044,04-Abr,Nordeste,Cloud & Storage,14,2099.08,12.0
+TRX-10045,09-Set,Centro-Oeste,Cloud & Storage,24,7357.77,18.0
+TRX-10046,05-Mai,Sul,Cloud & Storage,16,3281.22,13.0
+TRX-10047,07-Jul,Centro-Oeste,Cibersegurança,15,4166.94,20.0
+TRX-10048,08-Ago,Sudeste,Licenças SaaS,12,3824.3,14.0
+TRX-10049,03-Mar,Sul,Cloud & Storage,9,7948.53,23.0
+TRX-10050,12-Dez,Sudeste,Consultoria Dados,8,45.0,7.0
+TRX-10051,11-Nov,Sudeste,Licenças SaaS,18,1830.73,22.0
+TRX-10052,12-Dez,Sul,Licenças SaaS,23,2060.78,12.0
+TRX-10053,12-Dez,Norte,Cibersegurança,18,4717.21,21.0
+TRX-10054,08-Ago,Nordeste,Licenças SaaS,13,2251.47,20.0
+TRX-10055,12-Dez,Centro-Oeste,Hardware & Servidores,28,7022.18,1.0
+TRX-10056,02-Fev,Sudeste,Licenças SaaS,27,7794.52,16.0
+TRX-10057,03-Mar,Sudeste,Hardware & Servidores,18,2683.09,19.0
+TRX-10058,01-Jan,Centro-Oeste,Licenças SaaS,15,2330.18,21.0
+TRX-10059,05-Mai,Sudeste,Consultoria Dados,4,3201.56,8.0
+TRX-10060,06-Jun,Sul,Cloud & Storage,17,4095.37,17.0
+TRX-10061,04-Abr,Sudeste,Cloud & Storage,5,4696.84,15.0
+TRX-10062,11-Nov,Nordeste,Licenças SaaS,22,885.07,16.0
+TRX-10063,05-Mai,Sudeste,Cloud & Storage,16,2040.92,19.0
+TRX-10064,05-Mai,Sul,Licenças SaaS,9,2943.44,20.0
+TRX-10065,08-Ago,Nordeste,Hardware & Servidores,10,2280.06,11.0
+TRX-10066,03-Mar,Sul,Hardware & Servidores,24,594.63,15.0
+TRX-10067,11-Nov,Sudeste,Consultoria Dados,18,1121.65,14.0
+TRX-10068,02-Fev,Sul,Licenças SaaS,17,1638.47,13.0
+TRX-10069,12-Dez,Sudeste,Licenças SaaS,18,3551.29,13.0
+TRX-10070,11-Nov,Centro-Oeste,Cloud & Storage,7,2882.66,15.0
+TRX-10071,03-Mar,Sudeste,Licenças SaaS,4,2538.88,11.0
+TRX-10072,01-Jan,Sul,Cibersegurança,26,6423.6,18.0
+TRX-10073,11-Nov,Nordeste,Cibersegurança,5,6422.01,20.0
+TRX-10074,10-Out,Nordeste,Licenças SaaS,28,4219.4,10.0
+TRX-10075,10-Out,Nordeste,Cibersegurança,23,4138.46,21.0
+TRX-10076,11-Nov,Sul,Cloud & Storage,16,2193.32,10.0
+TRX-10077,02-Fev,Sudeste,Cloud & Storage,3,2370.73,18.0
+TRX-10078,05-Mai,Norte,Licenças SaaS,26,1261.46,21.0
+TRX-10079,02-Fev,Nordeste,Cloud & Storage,18,3251.95,14.0
+TRX-10080,11-Nov,Sul,Licenças SaaS,29,6378.78,10.0
+TRX-10081,09-Set,Sul,Cloud & Storage,23,9230.92,11.0
+TRX-10082,05-Mai,Sudeste,Cibersegurança,21,3264.6,16.0
+TRX-10083,01-Jan,Nordeste,Licenças SaaS,14,5268.94,24.0
+TRX-10084,05-Mai,Sudeste,Cloud & Storage,15,598.01,6.0
+TRX-10085,05-Mai,Sudeste,Hardware & Servidores,17,2888.8,15.0
+TRX-10086,10-Out,Sul,Hardware & Servidores,1,2845.13,14.0
+TRX-10087,09-Set,Centro-Oeste,Cibersegurança,25,10089.59,12.0
+TRX-10088,12-Dez,Nordeste,Licenças SaaS,21,4941.41,14.0
+TRX-10089,07-Jul,Sudeste,Hardware & Servidores,17,5277.81,11.0
+TRX-10090,02-Fev,Nordeste,Licenças SaaS,23,5102.64,20.0
+TRX-10091,10-Out,Norte,Cloud & Storage,25,3942.37,21.0
+TRX-10092,10-Out,Sul,Cloud & Storage,11,10363.42,14.0
+TRX-10093,08-Ago,Sudeste,Consultoria Dados,17,855.4,
+TRX-10094,11-Nov,Sudeste,Cloud & Storage,26,4209.24,12.0
+TRX-10095,07-Jul,Nordeste,Cloud & Storage,14,7977.43,14.0
+TRX-10096,07-Jul,Sudeste,Hardware & Servidores,29,1119.45,23.0
+TRX-10097,06-Jun,Sudeste,Hardware & Servidores,20,6598.82,13.0
+TRX-10098,01-Jan,Nordeste,Cloud & Storage,19,2333.78,10.0
+TRX-10099,02-Fev,Sudeste,Hardware & Servidores,21,4110.83,12.0
+TRX-10100,01-Jan,Nordeste,Cibersegurança,7,2304.84,18.0
+TRX-10101,09-Set,Sudeste,Cloud & Storage,24,7139.86,10.0
+TRX-10102,05-Mai,Sul,Cibersegurança,13,52300.0,14.0
+TRX-10103,07-Jul,Centro-Oeste,Hardware & Servidores,18,6632.7,16.0
+TRX-10104,12-Dez,Nordeste,Cloud & Storage,23,5079.48,11.0
+TRX-10105,04-Abr,Sudeste,Licenças SaaS,14,2284.8,5.0
+TRX-10106,06-Jun,Nordeste,Consultoria Dados,1,5303.96,9.0
+TRX-10107,10-Out,Nordeste,Hardware & Servidores,7,2486.62,10.0
+TRX-10108,04-Abr,Sudeste,Licenças SaaS,8,3990.55,13.0
+TRX-10109,02-Fev,Norte,Cibersegurança,18,3136.03,14.0
+TRX-10110,05-Mai,Sul,Cibersegurança,9,6870.16,18.0
+TRX-10111,03-Mar,Sul,Cibersegurança,1,5438.23,8.0
+TRX-10112,12-Dez,Sul,Hardware & Servidores,29,3751.95,17.0
+TRX-10113,11-Nov,Nordeste,Hardware & Servidores,22,2451.09,12.0
+TRX-10114,09-Set,Centro-Oeste,Cibersegurança,17,1677.66,5.0
+TRX-10115,11-Nov,Sul,Cloud & Storage,19,4180.46,14.0
+TRX-10116,11-Nov,Sudeste,Consultoria Dados,27,2537.69,21.0
+TRX-10117,03-Mar,Sudeste,Cloud & Storage,6,1129.24,18.0
+TRX-10118,12-Dez,Sul,Hardware & Servidores,3,1612.4,14.0
+TRX-10119,08-Ago,Nordeste,Licenças SaaS,24,11012.86,20.0
+TRX-10120,11-Nov,Nordeste,Cloud & Storage,5,2492.43,15.0
+TRX-10121,12-Dez,Sudeste,Cibersegurança,2,7734.19,19.0
+TRX-10122,05-Mai,Norte,Licenças SaaS,20,3035.64,6.0
+TRX-10123,02-Fev,Sudeste,Consultoria Dados,25,8567.45,8.0
+TRX-10124,04-Abr,Norte,Licenças SaaS,4,8173.53,18.0
+TRX-10125,06-Jun,Centro-Oeste,Licenças SaaS,10,2237.91,22.0
+TRX-10126,11-Nov,Sudeste,Licenças SaaS,10,1051.33,16.0
+TRX-10127,11-Nov,Sul,Consultoria Dados,24,1110.81,12.0
+TRX-10128,01-Jan,Nordeste,Cloud & Storage,21,2262.83,10.0
+TRX-10129,07-Jul,Sudeste,Hardware & Servidores,11,13072.45,12.0
+TRX-10130,06-Jun,Sul,Cloud & Storage,27,2931.1,20.0
+TRX-10131,04-Abr,Sul,Cloud & Storage,16,4206.59,
+TRX-10132,02-Fev,Sudeste,Licenças SaaS,26,8929.98,19.0
+TRX-10133,05-Mai,Sudeste,Cibersegurança,29,4112.18,17.0
+TRX-10134,12-Dez,Centro-Oeste,Cibersegurança,29,4021.17,23.0
+TRX-10135,05-Mai,Nordeste,Hardware & Servidores,17,5737.23,15.0
+TRX-10136,07-Jul,Sul,Licenças SaaS,16,4618.52,14.0
+TRX-10137,10-Out,Centro-Oeste,Cloud & Storage,7,3587.99,19.0
+TRX-10138,06-Jun,Sul,Licenças SaaS,16,2394.81,9.0
+TRX-10139,12-Dez,Nordeste,Cibersegurança,3,4027.97,12.0
+TRX-10140,12-Dez,Nordeste,Cloud & Storage,26,7795.95,6.0
+TRX-10141,04-Abr,Sudeste,Hardware & Servidores,16,12189.17,8.0
+TRX-10142,07-Jul,Centro-Oeste,Hardware & Servidores,8,4628.46,24.0
+TRX-10143,05-Mai,Sudeste,Licenças SaaS,12,6253.24,17.0
+TRX-10144,05-Mai,Sudeste,Consultoria Dados,3,4561.13,7.0
+TRX-10145,01-Jan,Nordeste,Cibersegurança,17,3616.41,20.0
+TRX-10146,08-Ago,Sudeste,Hardware & Servidores,21,5346.87,10.0
+TRX-10147,07-Jul,Sudeste,Cloud & Storage,18,8292.16,17.0
+TRX-10148,01-Jan,Sudeste,Licenças SaaS,11,2151.38,17.0
+TRX-10149,04-Abr,Nordeste,Licenças SaaS,4,1490.09,22.0
+TRX-10150,12-Dez,Sudeste,Hardware & Servidores,16,2706.86,11.0
+TRX-10151,04-Abr,Sul,Hardware & Servidores,17,4392.18,10.0
+TRX-10152,03-Mar,Centro-Oeste,Licenças SaaS,9,6737.31,1.0
+TRX-10153,07-Jul,Nordeste,Cloud & Storage,6,2011.87,13.0
+TRX-10154,12-Dez,Sul,Cloud & Storage,24,759.32,18.0
+TRX-10155,04-Abr,Sul,Hardware & Servidores,27,2748.63,18.0
+TRX-10156,09-Set,Sul,Cibersegurança,20,3374.34,20.0
+TRX-10157,10-Out,Sudeste,Licenças SaaS,25,1798.17,15.0
+TRX-10158,04-Abr,Sudeste,Consultoria Dados,2,2341.49,17.0
+TRX-10159,10-Out,Centro-Oeste,Cibersegurança,9,6725.99,14.0
+TRX-10160,06-Jun,Centro-Oeste,Cibersegurança,28,4027.0,18.0
+TRX-10161,09-Set,Sudeste,Hardware & Servidores,21,4791.77,9.0
+TRX-10162,09-Set,Sudeste,Cibersegurança,29,3037.55,7.0
+TRX-10163,08-Ago,Nordeste,Cloud & Storage,6,2344.5,10.0
+TRX-10164,02-Fev,Sudeste,Cibersegurança,3,3023.34,15.0
+TRX-10165,11-Nov,Norte,Cloud & Storage,20,5293.7,7.0
+TRX-10166,05-Mai,Sudeste,Cloud & Storage,6,1451.92,11.0
+TRX-10167,03-Mar,Sul,Hardware & Servidores,7,11188.15,11.0
+TRX-10168,01-Jan,Centro-Oeste,Cloud & Storage,1,5561.69,18.0
+TRX-10169,08-Ago,Sudeste,Hardware & Servidores,23,2701.81,17.0
+TRX-10170,09-Set,Centro-Oeste,Hardware & Servidores,1,6494.52,14.0
+TRX-10171,01-Jan,Sul,Consultoria Dados,5,8472.04,16.0
+TRX-10172,07-Jul,Sul,Cloud & Storage,6,3088.0,16.0
+TRX-10173,04-Abr,Nordeste,Cibersegurança,13,3324.98,12.0
+TRX-10174,09-Set,Sul,Licenças SaaS,2,10104.72,11.0
+TRX-10175,03-Mar,Nordeste,Consultoria Dados,15,15173.93,22.0
+TRX-10176,10-Out,Sudeste,Cibersegurança,15,3901.57,2.0
+TRX-10177,06-Jun,Sudeste,Licenças SaaS,13,1802.92,10.0
+TRX-10178,12-Dez,Centro-Oeste,Cloud & Storage,26,2818.92,13.0
+TRX-10179,03-Mar,Sudeste,Cloud & Storage,25,7491.02,17.0
+TRX-10180,05-Mai,Sudeste,Cloud & Storage,14,1959.33,20.0
+TRX-10181,02-Fev,Sul,Licenças SaaS,26,3342.97,23.0
+TRX-10182,12-Dez,Sul,Licenças SaaS,22,4629.39,14.0
+TRX-10183,11-Nov,Sudeste,Cloud & Storage,7,2101.14,14.0
+TRX-10184,04-Abr,Centro-Oeste,Hardware & Servidores,14,7806.27,16.0
+TRX-10185,09-Set,Norte,Cibersegurança,26,6009.39,11.0
+TRX-10186,11-Nov,Nordeste,Hardware & Servidores,24,14132.11,8.0
+TRX-10187,08-Ago,Centro-Oeste,Cibersegurança,27,6361.06,14.0
+TRX-10188,07-Jul,Nordeste,Licenças SaaS,29,2049.64,18.0
+TRX-10189,04-Abr,Centro-Oeste,Licenças SaaS,10,5403.16,13.0
+TRX-10190,02-Fev,Sudeste,Licenças SaaS,17,7275.11,16.0
+TRX-10191,12-Dez,Nordeste,Licenças SaaS,14,7522.56,5.0
+TRX-10192,12-Dez,Centro-Oeste,Cloud & Storage,8,2310.12,14.0
+TRX-10193,09-Set,Sudeste,Licenças SaaS,4,2137.47,12.0
+TRX-10194,05-Mai,Sul,Cibersegurança,26,1824.82,8.0
+TRX-10195,05-Mai,Sudeste,Hardware & Servidores,16,10862.54,17.0
+TRX-10196,10-Out,Sudeste,Hardware & Servidores,24,5738.03,23.0
+TRX-10197,12-Dez,Nordeste,Cloud & Storage,13,2244.43,19.0
+TRX-10198,12-Dez,Sudeste,Cloud & Storage,22,4157.51,19.0
+TRX-10199,11-Nov,Sudeste,Cibersegurança,27,3531.94,18.0
+TRX-10200,09-Set,Norte,Licenças SaaS,25,2034.13,17.0
+TRX-10201,02-Fev,Sul,Hardware & Servidores,27,3918.72,5.0
+TRX-10202,03-Mar,Sudeste,Hardware & Servidores,20,4332.72,13.0
+TRX-10203,12-Dez,Sul,Consultoria Dados,18,13430.92,17.0
+TRX-10204,08-Ago,Centro-Oeste,Hardware & Servidores,14,2499.39,17.0
+TRX-10205,01-Jan,Nordeste,Cloud & Storage,18,1260.03,20.0
+TRX-10206,02-Fev,Sudeste,Cibersegurança,5,1935.61,9.0
+TRX-10207,09-Set,Nordeste,Cibersegurança,26,2142.61,17.0
+TRX-10208,01-Jan,Sudeste,Hardware & Servidores,9,2900.09,9.0
+TRX-10209,03-Mar,Nordeste,Hardware & Servidores,28,1938.7,13.0
+TRX-10210,08-Ago,Centro-Oeste,Hardware & Servidores,3,6531.42,14.0
+TRX-10211,10-Out,Nordeste,Cibersegurança,8,1853.03,18.0
+TRX-10212,09-Set,Sul,Cibersegurança,20,3877.76,18.0
+TRX-10213,04-Abr,Norte,Cloud & Storage,22,14046.45,15.0
+TRX-10214,10-Out,Centro-Oeste,Cibersegurança,10,5485.26,3.0
+TRX-10215,04-Abr,Sudeste,Licenças SaaS,22,5130.67,16.0
+TRX-10216,05-Mai,Nordeste,Hardware & Servidores,19,12800.71,13.0
+TRX-10217,10-Out,Sudeste,Cloud & Storage,21,8601.33,21.0
+TRX-10218,09-Set,Nordeste,Licenças SaaS,28,5526.62,20.0
+TRX-10219,11-Nov,Sul,Cloud & Storage,3,3127.62,9.0
+TRX-10220,09-Set,Centro-Oeste,Cloud & Storage,11,3771.59,17.0
+TRX-10221,08-Ago,Sudeste,Cibersegurança,11,3654.27,17.0
+TRX-10222,02-Fev,Sul,Licenças SaaS,17,2948.56,17.0
+TRX-10223,06-Jun,Sul,Licenças SaaS,16,4393.25,16.0
+TRX-10224,04-Abr,Sul,Cibersegurança,7,4807.76,17.0
+TRX-10225,04-Abr,Sudeste,Licenças SaaS,4,1704.44,22.0
+TRX-10226,12-Dez,Sudeste,Cloud & Storage,23,11057.1,11.0
+TRX-10227,06-Jun,Sudeste,Cibersegurança,19,4995.88,9.0
+TRX-10228,12-Dez,Sudeste,Cloud & Storage,12,3226.62,18.0
+TRX-10229,09-Set,Sudeste,Hardware & Servidores,15,4419.42,5.0
+TRX-10230,11-Nov,Centro-Oeste,Licenças SaaS,11,7007.52,17.0
+TRX-10231,07-Jul,Sul,Cibersegurança,5,1475.35,16.0
+TRX-10232,08-Ago,Nordeste,Cloud & Storage,5,3574.96,2.0
+TRX-10233,07-Jul,Nordeste,Consultoria Dados,15,1770.81,11.0
+TRX-10234,03-Mar,Centro-Oeste,Hardware & Servidores,29,21526.77,22.0
+TRX-10235,10-Out,Sudeste,Cloud & Storage,18,4187.34,7.0
+TRX-10236,05-Mai,Nordeste,Hardware & Servidores,11,1780.17,15.0
+TRX-10237,01-Jan,Sul,Licenças SaaS,26,39721.72,9.0
+TRX-10238,09-Set,Sul,Licenças SaaS,12,2701.57,10.0
+TRX-10239,03-Mar,Sul,Cloud & Storage,2,3341.24,24.0
+TRX-10240,12-Dez,Nordeste,Licenças SaaS,20,61000.0,15.0
+TRX-10241,12-Dez,Sul,Cloud & Storage,15,2205.77,17.0
+TRX-10242,12-Dez,Sudeste,Licenças SaaS,20,4495.26,13.0
+TRX-10243,06-Jun,Norte,Cloud & Storage,4,909.61,6.0
+TRX-10244,01-Jan,Nordeste,Cloud & Storage,22,7752.99,8.0
+TRX-10245,12-Dez,Sudeste,Consultoria Dados,18,1838.91,20.0
+TRX-10246,06-Jun,Sul,Cloud & Storage,6,2922.05,15.0
+TRX-10247,12-Dez,Nordeste,Hardware & Servidores,23,6238.45,10.0
+TRX-10248,12-Dez,Sudeste,Cibersegurança,27,3351.29,14.0
+TRX-10249,11-Nov,Sul,Consultoria Dados,26,3441.61,17.0
+TRX-10250,05-Mai,Sul,Cloud & Storage,19,1982.57,16.0
+TRX-10251,06-Jun,Nordeste,Hardware & Servidores,11,14945.59,10.0
+TRX-10252,11-Nov,Centro-Oeste,Cloud & Storage,28,5407.07,6.0
+TRX-10253,05-Mai,Nordeste,Cibersegurança,24,1893.51,12.0
+TRX-10254,03-Mar,Nordeste,Hardware & Servidores,2,4297.63,20.0
+TRX-10255,08-Ago,Sudeste,Licenças SaaS,27,1808.49,18.0
+TRX-10256,12-Dez,Sudeste,Consultoria Dados,8,11726.06,16.0
+TRX-10257,10-Out,Sudeste,Cloud & Storage,29,4357.98,13.0
+TRX-10258,08-Ago,Sudeste,Cloud & Storage,11,2030.21,11.0
+TRX-10259,02-Fev,Sudeste,Cloud & Storage,5,6023.56,13.0
+TRX-10260,09-Set,Nordeste,Hardware & Servidores,18,3194.71,18.0
+TRX-10261,12-Dez,Sudeste,Licenças SaaS,23,1656.81,19.0
+TRX-10262,03-Mar,Nordeste,Cloud & Storage,18,4903.38,
+TRX-10263,07-Jul,Sudeste,Cloud & Storage,14,4814.31,27.0
+TRX-10264,11-Nov,Sudeste,Licenças SaaS,22,8018.66,14.0
+TRX-10265,10-Out,Sudeste,Cloud & Storage,10,3991.52,12.0
+TRX-10266,10-Out,Sudeste,Cibersegurança,3,4103.47,21.0
+TRX-10267,10-Out,Centro-Oeste,Hardware & Servidores,9,4247.5,4.0
+TRX-10268,05-Mai,Sul,Licenças SaaS,3,10796.03,16.0
+TRX-10269,05-Mai,Sudeste,Consultoria Dados,11,3128.95,14.0
+TRX-10270,11-Nov,Sul,Cibersegurança,12,5193.41,21.0
+TRX-10271,11-Nov,Sudeste,Consultoria Dados,12,5715.2,17.0
+TRX-10272,11-Nov,Sudeste,Hardware & Servidores,3,4804.72,15.0
+TRX-10273,12-Dez,Centro-Oeste,Cloud & Storage,21,3052.95,17.0
+TRX-10274,07-Jul,Norte,Cibersegurança,7,4139.76,9.0
+TRX-10275,07-Jul,Sudeste,Cibersegurança,14,3601.56,19.0
+TRX-10276,11-Nov,Centro-Oeste,Cloud & Storage,24,13677.22,7.0
+TRX-10277,09-Set,Sudeste,Cloud & Storage,28,2842.54,16.0
+TRX-10278,10-Out,Sudeste,Hardware & Servidores,11,2115.03,14.0
+TRX-10279,11-Nov,Sul,Cloud & Storage,7,3812.23,5.0
+TRX-10280,12-Dez,Sudeste,Hardware & Servidores,25,3641.48,14.0
+TRX-10281,05-Mai,Sudeste,Licenças SaaS,21,4350.07,15.0
+TRX-10282,06-Jun,Sudeste,Cloud & Storage,10,2843.13,11.0
+TRX-10283,02-Fev,Sul,Hardware & Servidores,11,4112.32,9.0
+TRX-10284,08-Ago,Sul,Cibersegurança,15,4164.05,16.0
+TRX-10285,01-Jan,Sudeste,Cibersegurança,19,6897.36,16.0
+TRX-10286,07-Jul,Norte,Licenças SaaS,16,4066.16,15.0
+TRX-10287,08-Ago,Sudeste,Cibersegurança,22,4091.26,14.0
+TRX-10288,05-Mai,Sudeste,Cloud & Storage,21,5354.14,11.0
+TRX-10289,08-Ago,Sul,Licenças SaaS,28,6727.61,25.0
+TRX-10290,01-Jan,Sudeste,Cibersegurança,20,2019.51,13.0
+TRX-10291,01-Jan,Sudeste,Hardware & Servidores,12,1695.94,10.0
+TRX-10292,11-Nov,Sul,Cibersegurança,18,11522.56,14.0
+TRX-10293,06-Jun,Sudeste,Consultoria Dados,23,6049.0,13.0
+TRX-10294,02-Fev,Sul,Cloud & Storage,13,3318.93,12.0
+TRX-10295,07-Jul,Sul,Cloud & Storage,5,3876.96,23.0
+TRX-10296,10-Out,Sul,Hardware & Servidores,4,2965.6,8.0
+TRX-10297,04-Abr,Sul,Hardware & Servidores,28,4391.09,14.0
+TRX-10298,09-Set,Sul,Cloud & Storage,14,2035.11,9.0
+TRX-10299,02-Fev,Sudeste,Cibersegurança,8,6608.48,11.0
+TRX-10300,01-Jan,Nordeste,Hardware & Servidores,9,4290.01,23.0
+TRX-10301,08-Ago,Sudeste,Consultoria Dados,25,4392.08,15.0
+TRX-10302,08-Ago,Sudeste,Licenças SaaS,19,2140.81,15.0
+TRX-10303,09-Set,Sudeste,Cibersegurança,3,5381.78,9.0
+TRX-10304,10-Out,Norte,Licenças SaaS,5,2173.01,12.0
+TRX-10305,12-Dez,Sudeste,Hardware & Servidores,21,2440.85,23.0
+TRX-10306,07-Jul,Sul,Cloud & Storage,26,4051.95,16.0
+TRX-10307,05-Mai,Sudeste,Cibersegurança,18,19531.15,12.0
+TRX-10308,11-Nov,Sul,Licenças SaaS,1,4278.91,16.0
+TRX-10309,04-Abr,Sudeste,Licenças SaaS,8,720.74,15.0
+TRX-10310,06-Jun,Sudeste,Cloud & Storage,19,2520.91,10.0
+TRX-10311,02-Fev,Nordeste,Consultoria Dados,17,5969.53,12.0
+TRX-10312,01-Jan,Sudeste,Hardware & Servidores,17,1838.12,25.0
+TRX-10313,12-Dez,Centro-Oeste,Licenças SaaS,11,6569.65,16.0
+TRX-10314,11-Nov,Norte,Consultoria Dados,2,4243.88,6.0
+TRX-10315,10-Out,Sul,Hardware & Servidores,6,7290.76,17.0
+TRX-10316,06-Jun,Sudeste,Licenças SaaS,22,2661.77,21.0
+TRX-10317,03-Mar,Sudeste,Hardware & Servidores,14,2530.29,9.0
+TRX-10318,03-Mar,Sudeste,Cloud & Storage,3,5526.12,12.0
+TRX-10319,04-Abr,Sudeste,Cibersegurança,12,3808.94,21.0
+TRX-10320,08-Ago,Nordeste,Cibersegurança,4,3662.07,14.0
+TRX-10321,10-Out,Centro-Oeste,Consultoria Dados,12,10612.95,13.0
+TRX-10322,09-Set,Sudeste,Licenças SaaS,13,5668.57,7.0
+TRX-10323,04-Abr,Sudeste,Cloud & Storage,2,1050.0,19.0
+TRX-10324,12-Dez,Nordeste,Licenças SaaS,2,6434.27,13.0
+TRX-10325,10-Out,Norte,Consultoria Dados,15,6028.96,3.0
+TRX-10326,08-Ago,Nordeste,Hardware & Servidores,23,8268.37,6.0
+TRX-10327,09-Set,Sul,Consultoria Dados,29,2078.07,11.0
+TRX-10328,06-Jun,Sudeste,Hardware & Servidores,17,4727.37,9.0
+TRX-10329,04-Abr,Sul,Licenças SaaS,7,4115.68,9.0
+TRX-10330,05-Mai,Sudeste,Cloud & Storage,28,2053.99,26.0
+TRX-10331,10-Out,Sul,Hardware & Servidores,14,7082.61,18.0
+TRX-10332,01-Jan,Sudeste,Cloud & Storage,12,3271.47,1.0
+TRX-10333,02-Fev,Centro-Oeste,Cibersegurança,17,30.0,12.0
+TRX-10334,01-Jan,Sul,Cloud & Storage,14,2361.71,14.0
+TRX-10335,01-Jan,Sudeste,Hardware & Servidores,6,1481.22,7.0
+TRX-10336,11-Nov,Sudeste,Cibersegurança,19,3269.3,17.0
+TRX-10337,10-Out,Sudeste,Consultoria Dados,24,4450.37,4.0
+TRX-10338,07-Jul,Sul,Cloud & Storage,6,2704.77,19.0
+TRX-10339,02-Fev,Sudeste,Cloud & Storage,27,522.23,21.0
+TRX-10340,07-Jul,Centro-Oeste,Cloud & Storage,18,4911.68,26.0
+TRX-10341,07-Jul,Sul,Hardware & Servidores,24,4896.8,6.0
+TRX-10342,03-Mar,Sul,Licenças SaaS,5,5982.89,7.0
+TRX-10343,06-Jun,Sudeste,Licenças SaaS,24,2988.96,17.0
+TRX-10344,06-Jun,Norte,Cibersegurança,24,2884.82,20.0
+TRX-10345,09-Set,Centro-Oeste,Cloud & Storage,6,9761.58,18.0
+TRX-10346,09-Set,Centro-Oeste,Licenças SaaS,2,1374.69,19.0
+TRX-10347,01-Jan,Sudeste,Cibersegurança,8,3259.64,21.0
+TRX-10348,06-Jun,Sudeste,Licenças SaaS,15,4198.56,15.0
+TRX-10349,09-Set,Sul,Cibersegurança,15,5675.5,13.0
+TRX-10350,07-Jul,Sudeste,Licenças SaaS,11,4274.18,7.0
+TRX-10351,11-Nov,Nordeste,Cibersegurança,22,2102.13,13.0
+TRX-10352,09-Set,Sudeste,Cloud & Storage,22,8175.92,13.0
+TRX-10353,03-Mar,Nordeste,Consultoria Dados,24,3832.37,9.0
+TRX-10354,02-Fev,Centro-Oeste,Cibersegurança,1,1294.39,14.0
+TRX-10355,09-Set,Sul,Cibersegurança,18,4385.09,9.0
+TRX-10356,01-Jan,Nordeste,Cloud & Storage,12,5213.1,20.0
+TRX-10357,08-Ago,Sul,Cibersegurança,12,13690.86,16.0
+TRX-10358,12-Dez,Sudeste,Cibersegurança,25,4992.48,12.0
+TRX-10359,08-Ago,Sul,Hardware & Servidores,11,1460.72,15.0
+TRX-10360,06-Jun,Sul,Hardware & Servidores,28,1494.45,8.0
+TRX-10361,09-Set,Sudeste,Cibersegurança,8,8674.66,9.0
+TRX-10362,06-Jun,Sudeste,Licenças SaaS,28,2271.46,11.0
+TRX-10363,08-Ago,Sudeste,Cibersegurança,7,1397.96,13.0
+TRX-10364,12-Dez,Sudeste,Cloud & Storage,23,7334.41,15.0
+TRX-10365,06-Jun,Sul,Licenças SaaS,21,2809.53,15.0
+TRX-10366,12-Dez,Sul,Hardware & Servidores,2,7083.75,7.0
+TRX-10367,12-Dez,Sudeste,Cloud & Storage,11,2112.09,14.0
+TRX-10368,03-Mar,Sudeste,Hardware & Servidores,22,9976.4,10.0
+TRX-10369,01-Jan,Centro-Oeste,Hardware & Servidores,10,6746.92,1.0
+TRX-10370,02-Fev,Centro-Oeste,Cloud & Storage,3,2392.88,29.0
+TRX-10371,01-Jan,Nordeste,Cloud & Storage,20,1300.81,10.0
+TRX-10372,02-Fev,Centro-Oeste,Hardware & Servidores,29,17126.06,10.0
+TRX-10373,09-Set,Sudeste,Cloud & Storage,10,3338.79,7.0
+TRX-10374,02-Fev,Centro-Oeste,Cibersegurança,28,2331.4,9.0
+TRX-10375,05-Mai,Sudeste,Cloud & Storage,27,9424.81,13.0
+TRX-10376,11-Nov,Sudeste,Cloud & Storage,18,7077.98,21.0
+TRX-10377,01-Jan,Nordeste,Licenças SaaS,14,8257.01,13.0
+TRX-10378,11-Nov,Sudeste,Hardware & Servidores,18,3590.22,12.0
+TRX-10379,05-Mai,Nordeste,Cibersegurança,28,12999.75,20.0
+TRX-10380,02-Fev,Nordeste,Hardware & Servidores,24,1632.88,11.0
+TRX-10381,10-Out,Nordeste,Hardware & Servidores,8,2673.56,14.0
+TRX-10382,09-Set,Nordeste,Cibersegurança,10,4931.61,9.0
+TRX-10383,11-Nov,Sudeste,Cibersegurança,22,8178.57,22.0
+TRX-10384,10-Out,Sudeste,Licenças SaaS,13,5882.6,19.0
+TRX-10385,11-Nov,Sudeste,Cibersegurança,21,3626.91,13.0
+TRX-10386,05-Mai,Sudeste,Consultoria Dados,8,2810.6,12.0
+TRX-10387,03-Mar,Sudeste,Hardware & Servidores,4,8207.32,14.0
+TRX-10388,10-Out,Centro-Oeste,Hardware & Servidores,27,6290.89,13.0
+TRX-10389,11-Nov,Centro-Oeste,Hardware & Servidores,4,2168.0,6.0
+TRX-10390,12-Dez,Sudeste,Hardware & Servidores,5,2126.48,19.0
+TRX-10391,06-Jun,Sul,Cibersegurança,1,2684.99,13.0
+TRX-10392,06-Jun,Sudeste,Cibersegurança,17,2470.2,
+TRX-10393,11-Nov,Sul,Hardware & Servidores,2,7475.58,16.0
+TRX-10394,05-Mai,Nordeste,Consultoria Dados,8,5080.81,1.0
+TRX-10395,12-Dez,Sudeste,Licenças SaaS,7,5500.32,8.0
+TRX-10396,11-Nov,Sul,Cloud & Storage,15,4335.47,3.0
+TRX-10397,06-Jun,Sul,Hardware & Servidores,26,4470.26,8.0
+TRX-10398,10-Out,Sudeste,Hardware & Servidores,25,1368.98,6.0
+TRX-10399,10-Out,Sudeste,Hardware & Servidores,5,6413.88,15.0
+TRX-10400,02-Fev,Sudeste,Hardware & Servidores,2,2653.77,12.0
+TRX-10401,12-Dez,Sul,Cibersegurança,7,3746.02,18.0
+TRX-10402,07-Jul,Sudeste,Cloud & Storage,8,2814.21,14.0
+TRX-10403,11-Nov,Sudeste,Cloud & Storage,28,4208.31,13.0
+TRX-10404,05-Mai,Centro-Oeste,Consultoria Dados,7,5555.32,24.0
+TRX-10405,12-Dez,Sudeste,Licenças SaaS,7,1986.73,15.0
+TRX-10406,06-Jun,Sudeste,Consultoria Dados,28,4511.06,14.0
+TRX-10407,01-Jan,Sul,Hardware & Servidores,14,2858.77,10.0
+TRX-10408,12-Dez,Norte,Cloud & Storage,21,9035.79,8.0
+TRX-10409,02-Fev,Sudeste,Cibersegurança,18,1854.73,18.0
+TRX-10410,05-Mai,Centro-Oeste,Hardware & Servidores,6,45900.0,18.0
+TRX-10411,12-Dez,Sul,Hardware & Servidores,4,3029.88,22.0
+TRX-10412,12-Dez,Sudeste,Licenças SaaS,10,2097.14,16.0
+TRX-10413,08-Ago,Sul,Cibersegurança,18,3308.18,12.0
+TRX-10414,09-Set,Sudeste,Cloud & Storage,12,2715.89,17.0
+TRX-10415,06-Jun,Norte,Cloud & Storage,16,4054.04,14.0
+TRX-10416,05-Mai,Sudeste,Cloud & Storage,25,7370.54,18.0
+TRX-10417,05-Mai,Sul,Hardware & Servidores,7,4009.14,21.0
+TRX-10418,09-Set,Sul,Cloud & Storage,6,4253.64,13.0
+TRX-10419,10-Out,Sudeste,Hardware & Servidores,28,1925.11,
+TRX-10420,11-Nov,Sul,Hardware & Servidores,5,3508.21,20.0
+TRX-10421,11-Nov,Sul,Consultoria Dados,3,2909.86,14.0
+TRX-10422,02-Fev,Centro-Oeste,Cibersegurança,12,5961.44,17.0
+TRX-10423,07-Jul,Sudeste,Licenças SaaS,15,2328.62,16.0
+TRX-10424,01-Jan,Sudeste,Cloud & Storage,10,2187.63,14.0
+TRX-10425,08-Ago,Nordeste,Cloud & Storage,26,4704.75,24.0
+TRX-10426,06-Jun,Sul,Cloud & Storage,20,13864.22,17.0
+TRX-10427,12-Dez,Norte,Hardware & Servidores,19,3413.98,10.0
+TRX-10428,05-Mai,Sudeste,Hardware & Servidores,16,4269.86,9.0
+TRX-10429,02-Fev,Nordeste,Licenças SaaS,28,7088.39,9.0
+TRX-10430,03-Mar,Sudeste,Licenças SaaS,11,5331.76,16.0
+TRX-10431,10-Out,Nordeste,Cibersegurança,8,5354.6,12.0
+TRX-10432,09-Set,Norte,Cloud & Storage,3,3597.97,16.0
+TRX-10433,02-Fev,Sudeste,Consultoria Dados,23,3643.76,19.0
+TRX-10434,02-Fev,Norte,Hardware & Servidores,7,2342.92,24.0
+TRX-10435,10-Out,Sudeste,Cloud & Storage,23,5250.84,12.0
+TRX-10436,02-Fev,Sudeste,Cloud & Storage,29,5173.53,7.0
+TRX-10437,11-Nov,Sudeste,Licenças SaaS,7,6100.69,23.0
+TRX-10438,10-Out,Sudeste,Consultoria Dados,14,2787.03,7.0
+TRX-10439,02-Fev,Sul,Cloud & Storage,2,6565.52,7.0
+TRX-10440,02-Fev,Sudeste,Licenças SaaS,10,7995.77,23.0
+TRX-10441,12-Dez,Sudeste,Licenças SaaS,19,1738.76,19.0
+TRX-10442,06-Jun,Centro-Oeste,Cloud & Storage,26,3155.91,16.0
+TRX-10443,06-Jun,Nordeste,Cloud & Storage,9,8215.4,14.0
+TRX-10444,11-Nov,Sudeste,Cloud & Storage,16,2509.37,
+TRX-10445,12-Dez,Sudeste,Consultoria Dados,19,5397.52,11.0
+TRX-10446,12-Dez,Sudeste,Hardware & Servidores,18,3849.02,13.0
+TRX-10447,10-Out,Sul,Licenças SaaS,9,4746.07,14.0
+TRX-10448,06-Jun,Sul,Cloud & Storage,16,3926.04,
+TRX-10449,02-Fev,Sudeste,Licenças SaaS,13,6216.8,10.0
+TRX-10450,11-Nov,Sudeste,Cloud & Storage,10,1970.44,3.0
+TRX-10451,08-Ago,Norte,Cibersegurança,25,2114.01,14.0
+TRX-10452,06-Jun,Sudeste,Licenças SaaS,20,9916.29,14.0
+TRX-10453,12-Dez,Sudeste,Licenças SaaS,14,14991.46,23.0
+TRX-10454,02-Fev,Sudeste,Licenças SaaS,12,3814.17,16.0
+TRX-10455,07-Jul,Sul,Hardware & Servidores,25,11671.71,11.0
+TRX-10456,01-Jan,Sudeste,Licenças SaaS,19,2317.74,13.0
+TRX-10457,07-Jul,Sudeste,Hardware & Servidores,7,2709.36,16.0
+TRX-10458,01-Jan,Sudeste,Cloud & Storage,23,9871.1,15.0
+TRX-10459,02-Fev,Sudeste,Cibersegurança,15,6455.38,17.0
+TRX-10460,02-Fev,Norte,Cloud & Storage,16,10874.52,16.0
+TRX-10461,09-Set,Nordeste,Cibersegurança,27,5190.38,13.0
+TRX-10462,10-Out,Sudeste,Consultoria Dados,8,1981.97,11.0
+TRX-10463,08-Ago,Sudeste,Hardware & Servidores,10,4426.33,11.0
+TRX-10464,12-Dez,Sudeste,Licenças SaaS,4,8360.74,9.0
+TRX-10465,06-Jun,Sul,Cloud & Storage,19,3511.23,9.0
+TRX-10466,05-Mai,Sudeste,Hardware & Servidores,19,3177.4,23.0
+TRX-10467,11-Nov,Sul,Hardware & Servidores,28,5242.24,15.0
+TRX-10468,04-Abr,Sudeste,Consultoria Dados,21,2660.64,13.0
+TRX-10469,12-Dez,Sudeste,Licenças SaaS,27,4638.17,12.0
+TRX-10470,01-Jan,Sul,Consultoria Dados,15,3988.92,16.0
+TRX-10471,12-Dez,Norte,Consultoria Dados,14,2782.85,20.0
+TRX-10472,01-Jan,Nordeste,Cloud & Storage,1,7240.74,18.0
+TRX-10473,12-Dez,Centro-Oeste,Cloud & Storage,16,5824.87,19.0
+TRX-10474,07-Jul,Sudeste,Licenças SaaS,10,3041.52,11.0
+TRX-10475,12-Dez,Nordeste,Cloud & Storage,19,3790.58,14.0
+TRX-10476,02-Fev,Sul,Cloud & Storage,22,3208.86,11.0
+TRX-10477,08-Ago,Nordeste,Cloud & Storage,3,2527.23,15.0
+TRX-10478,12-Dez,Sul,Cibersegurança,5,1269.18,20.0
+TRX-10479,07-Jul,Nordeste,Cibersegurança,9,2794.79,16.0
+TRX-10480,09-Set,Sudeste,Hardware & Servidores,18,2551.36,22.0
+TRX-10481,10-Out,Nordeste,Cloud & Storage,11,4124.41,13.0
+TRX-10482,06-Jun,Norte,Cibersegurança,16,5097.24,10.0
+TRX-10483,09-Set,Sul,Cibersegurança,2,2272.37,17.0
+TRX-10484,08-Ago,Sudeste,Cloud & Storage,12,4879.38,15.0
+TRX-10485,12-Dez,Norte,Licenças SaaS,22,2055.84,16.0
+TRX-10486,01-Jan,Sudeste,Hardware & Servidores,6,3528.26,15.0
+TRX-10487,05-Mai,Nordeste,Cloud & Storage,11,2587.45,12.0
+TRX-10488,12-Dez,Sudeste,Licenças SaaS,27,6216.81,15.0
+TRX-10489,12-Dez,Sudeste,Cibersegurança,8,4129.46,19.0
+TRX-10490,06-Jun,Sudeste,Cloud & Storage,12,3563.12,19.0
+TRX-10491,09-Set,Sul,Licenças SaaS,29,2549.33,12.0
+TRX-10492,04-Abr,Centro-Oeste,Cibersegurança,27,3091.01,15.0
+TRX-10493,03-Mar,Sudeste,Licenças SaaS,2,12567.75,21.0
+TRX-10494,07-Jul,Sudeste,Licenças SaaS,9,2763.62,12.0
+TRX-10495,05-Mai,Sudeste,Cibersegurança,15,5227.11,11.0
+TRX-10496,08-Ago,Sudeste,Cloud & Storage,2,3557.38,18.0
+TRX-10497,02-Fev,Nordeste,Hardware & Servidores,29,5130.9,17.0
+TRX-10498,12-Dez,Norte,Cloud & Storage,1,6594.78,10.0
+TRX-10499,12-Dez,Sudeste,Cloud & Storage,10,3040.92,7.0
+TRX-10500,10-Out,Nordeste,Cibersegurança,2,6071.45,15.0
+TRX-10501,08-Ago,Centro-Oeste,Cibersegurança,12,22967.05,12.0
+TRX-10502,05-Mai,Sudeste,Cloud & Storage,23,5535.3,6.0
+TRX-10503,11-Nov,Norte,Hardware & Servidores,8,10925.21,11.0
+TRX-10504,09-Set,Sul,Cloud & Storage,5,5232.69,17.0
+TRX-10505,03-Mar,Sul,Cloud & Storage,22,2088.55,13.0
+TRX-10506,12-Dez,Nordeste,Licenças SaaS,28,4578.84,
+TRX-10507,11-Nov,Sudeste,Hardware & Servidores,1,3087.91,4.0
+TRX-10508,12-Dez,Nordeste,Cibersegurança,15,2598.37,21.0
+TRX-10509,10-Out,Nordeste,Consultoria Dados,6,3651.23,12.0
+TRX-10510,09-Set,Sul,Hardware & Servidores,12,3461.34,12.0
+TRX-10511,06-Jun,Nordeste,Cloud & Storage,8,1921.86,6.0
+TRX-10512,12-Dez,Sudeste,Hardware & Servidores,13,22258.96,16.0
+TRX-10513,11-Nov,Sudeste,Cibersegurança,19,6471.2,5.0
+TRX-10514,01-Jan,Sudeste,Cibersegurança,27,4486.61,18.0
+TRX-10515,01-Jan,Norte,Cloud & Storage,1,4057.9,6.0
+TRX-10516,06-Jun,Sul,Cibersegurança,11,8362.62,7.0
+TRX-10517,11-Nov,Sudeste,Licenças SaaS,20,14751.81,8.0
+TRX-10518,12-Dez,Centro-Oeste,Hardware & Servidores,1,5974.8,10.0
+TRX-10519,03-Mar,Centro-Oeste,Hardware & Servidores,8,4141.34,19.0
+TRX-10520,08-Ago,Centro-Oeste,Licenças SaaS,5,9968.83,22.0
+TRX-10521,06-Jun,Sul,Cibersegurança,17,4198.71,11.0
+TRX-10522,12-Dez,Sudeste,Licenças SaaS,8,5079.43,14.0
+TRX-10523,11-Nov,Sudeste,Cibersegurança,25,7336.79,16.0
+TRX-10524,11-Nov,Nordeste,Licenças SaaS,10,2977.35,12.0
+TRX-10525,07-Jul,Sudeste,Cloud & Storage,2,992.98,16.0
+TRX-10526,06-Jun,Sul,Licenças SaaS,9,2884.76,14.0
+TRX-10527,04-Abr,Norte,Consultoria Dados,24,6326.17,13.0
+TRX-10528,01-Jan,Sul,Cibersegurança,23,6043.01,7.0
+TRX-10529,11-Nov,Norte,Hardware & Servidores,3,9161.23,15.0
+TRX-10530,11-Nov,Centro-Oeste,Cloud & Storage,18,2957.38,19.0
+TRX-10531,12-Dez,Nordeste,Hardware & Servidores,7,10695.75,10.0
+TRX-10532,12-Dez,Sudeste,Cloud & Storage,15,4316.91,4.0
+TRX-10533,08-Ago,Sul,Cloud & Storage,21,5669.57,12.0
+TRX-10534,10-Out,Centro-Oeste,Cibersegurança,22,6886.71,22.0
+TRX-10535,12-Dez,Nordeste,Cibersegurança,20,1559.18,20.0
+TRX-10536,11-Nov,Centro-Oeste,Cloud & Storage,18,1991.85,11.0
+TRX-10537,04-Abr,Sul,Cibersegurança,25,1949.33,16.0
+TRX-10538,06-Jun,Centro-Oeste,Hardware & Servidores,3,7684.35,17.0
+TRX-10539,02-Fev,Centro-Oeste,Hardware & Servidores,28,3138.35,21.0
+TRX-10540,12-Dez,Centro-Oeste,Hardware & Servidores,23,14298.76,6.0
+TRX-10541,08-Ago,Centro-Oeste,Cibersegurança,14,3836.03,9.0
+TRX-10542,04-Abr,Nordeste,Cloud & Storage,24,1470.87,4.0
+TRX-10543,09-Set,Sudeste,Cloud & Storage,2,2472.36,11.0
+TRX-10544,09-Set,Sul,Cloud & Storage,14,4131.08,19.0
+TRX-10545,05-Mai,Sudeste,Licenças SaaS,22,5350.12,11.0
+TRX-10546,02-Fev,Sul,Hardware & Servidores,11,2017.99,7.0
+TRX-10547,09-Set,Sudeste,Cibersegurança,16,5538.69,15.0
+TRX-10548,07-Jul,Sudeste,Licenças SaaS,8,6588.64,15.0
+TRX-10549,11-Nov,Sul,Licenças SaaS,7,2523.45,9.0
+TRX-10550,07-Jul,Sudeste,Consultoria Dados,11,13765.93,11.0
+TRX-10551,11-Nov,Sul,Hardware & Servidores,3,2707.47,15.0
+TRX-10552,08-Ago,Nordeste,Hardware & Servidores,17,1998.35,18.0
+TRX-10553,08-Ago,Norte,Licenças SaaS,14,1416.59,11.0
+TRX-10554,11-Nov,Sul,Cloud & Storage,6,8462.64,10.0
+TRX-10555,06-Jun,Norte,Cibersegurança,8,3884.98,24.0
+TRX-10556,03-Mar,Sudeste,Licenças SaaS,22,2803.05,13.0
+TRX-10557,01-Jan,Sudeste,Licenças SaaS,5,1468.23,15.0
+TRX-10558,10-Out,Sul,Consultoria Dados,27,2971.99,17.0
+TRX-10559,09-Set,Sudeste,Consultoria Dados,28,17996.62,5.0
+TRX-10560,10-Out,Nordeste,Licenças SaaS,8,949.64,14.0
+TRX-10561,04-Abr,Centro-Oeste,Cloud & Storage,2,2538.74,6.0
+TRX-10562,03-Mar,Sul,Licenças SaaS,15,12274.87,13.0
+TRX-10563,01-Jan,Sul,Hardware & Servidores,12,8619.93,21.0
+TRX-10564,05-Mai,Sudeste,Cloud & Storage,17,2641.48,9.0
+TRX-10565,08-Ago,Sudeste,Licenças SaaS,1,4369.21,6.0
+TRX-10566,06-Jun,Sul,Cloud & Storage,15,5171.45,23.0
+TRX-10567,06-Jun,Sudeste,Cloud & Storage,14,4175.52,8.0
+TRX-10568,12-Dez,Nordeste,Hardware & Servidores,20,12208.56,7.0
+TRX-10569,05-Mai,Norte,Licenças SaaS,22,4773.52,22.0
+TRX-10570,07-Jul,Sudeste,Cibersegurança,16,8007.11,8.0
+TRX-10571,11-Nov,Nordeste,Licenças SaaS,29,4307.18,22.0
+TRX-10572,06-Jun,Sudeste,Cloud & Storage,9,1021.42,15.0
+TRX-10573,09-Set,Sudeste,Licenças SaaS,1,1763.28,20.0
+TRX-10574,11-Nov,Sul,Licenças SaaS,28,2017.93,15.0
+TRX-10575,12-Dez,Sudeste,Cloud & Storage,17,3255.05,19.0
+TRX-10576,03-Mar,Norte,Cloud & Storage,29,14779.1,9.0
+TRX-10577,12-Dez,Sudeste,Cloud & Storage,13,4844.35,11.0
+TRX-10578,07-Jul,Sudeste,Consultoria Dados,21,3573.27,3.0
+TRX-10579,04-Abr,Sudeste,Cibersegurança,26,8561.77,19.0
+TRX-10580,06-Jun,Sul,Consultoria Dados,21,1489.62,16.0
+TRX-10581,12-Dez,Nordeste,Cloud & Storage,5,2784.15,9.0
+TRX-10582,07-Jul,Sudeste,Licenças SaaS,10,2529.4,5.0
+TRX-10583,05-Mai,Sudeste,Licenças SaaS,6,4957.85,15.0
+TRX-10584,09-Set,Sudeste,Licenças SaaS,24,6851.98,22.0
+TRX-10585,04-Abr,Sudeste,Consultoria Dados,19,5200.27,13.0
+TRX-10586,02-Fev,Sul,Cloud & Storage,25,5254.06,11.0
+TRX-10587,02-Fev,Centro-Oeste,Hardware & Servidores,13,3026.85,9.0
+TRX-10588,02-Fev,Sul,Licenças SaaS,1,4714.95,20.0
+TRX-10589,03-Mar,Centro-Oeste,Licenças SaaS,20,55400.0,10.0
+TRX-10590,03-Mar,Nordeste,Cibersegurança,25,5932.44,12.0
+TRX-10591,09-Set,Nordeste,Cloud & Storage,15,2764.48,19.0
+TRX-10592,03-Mar,Sudeste,Cibersegurança,14,1846.45,17.0
+TRX-10593,05-Mai,Sudeste,Cloud & Storage,8,3922.89,12.0
+TRX-10594,12-Dez,Sul,Cloud & Storage,10,1103.76,11.0
+TRX-10595,07-Jul,Nordeste,Cibersegurança,9,9980.02,21.0
+TRX-10596,09-Set,Sudeste,Licenças SaaS,17,6426.04,8.0
+TRX-10597,03-Mar,Sudeste,Cloud & Storage,9,4764.89,13.0
+TRX-10598,03-Mar,Sudeste,Cloud & Storage,3,1332.22,6.0
+TRX-10599,01-Jan,Sul,Cloud & Storage,11,2428.13,20.0
+TRX-10600,03-Mar,Sudeste,Hardware & Servidores,12,3929.88,12.0
+TRX-10601,04-Abr,Sul,Licenças SaaS,10,3225.95,11.0
+TRX-10602,03-Mar,Centro-Oeste,Consultoria Dados,25,1277.21,17.0
+TRX-10603,02-Fev,Sudeste,Cloud & Storage,17,1626.72,7.0
+TRX-10604,02-Fev,Sul,Licenças SaaS,17,3184.3,17.0
+TRX-10605,07-Jul,Sudeste,Licenças SaaS,25,1662.14,12.0
+TRX-10606,04-Abr,Sul,Licenças SaaS,11,9333.84,8.0
+TRX-10607,06-Jun,Sudeste,Hardware & Servidores,22,5278.78,9.0
+TRX-10608,07-Jul,Centro-Oeste,Consultoria Dados,4,2270.48,11.0
+TRX-10609,10-Out,Sul,Cloud & Storage,7,8184.12,12.0
+TRX-10610,01-Jan,Nordeste,Cloud & Storage,21,7179.67,8.0
+TRX-10611,11-Nov,Sul,Hardware & Servidores,26,4618.49,15.0
+TRX-10612,09-Set,Sul,Cloud & Storage,14,3730.39,8.0
+TRX-10613,02-Fev,Centro-Oeste,Hardware & Servidores,7,3152.63,2.0
+TRX-10614,11-Nov,Sudeste,Cloud & Storage,24,2694.69,24.0
+TRX-10615,12-Dez,Sul,Cloud & Storage,8,1605.33,15.0
+TRX-10616,01-Jan,Sudeste,Licenças SaaS,1,10336.26,24.0
+TRX-10617,04-Abr,Sudeste,Licenças SaaS,24,2728.93,9.0
+TRX-10618,11-Nov,Nordeste,Cloud & Storage,22,3898.43,16.0
+TRX-10619,10-Out,Sudeste,Licenças SaaS,4,2118.24,18.0
+TRX-10620,03-Mar,Nordeste,Licenças SaaS,29,3233.62,13.0
+TRX-10621,04-Abr,Nordeste,Licenças SaaS,12,24416.28,7.0
+TRX-10622,06-Jun,Sudeste,Hardware & Servidores,24,2387.74,13.0
+TRX-10623,07-Jul,Nordeste,Licenças SaaS,3,9814.22,17.0
+TRX-10624,09-Set,Sudeste,Consultoria Dados,13,3759.07,17.0
+TRX-10625,06-Jun,Norte,Licenças SaaS,20,5954.84,14.0
+TRX-10626,07-Jul,Sul,Cloud & Storage,6,8595.35,18.0
+TRX-10627,10-Out,Centro-Oeste,Cibersegurança,11,4568.65,18.0
+TRX-10628,01-Jan,Sudeste,Cibersegurança,23,3045.41,11.0
+TRX-10629,04-Abr,Sudeste,Cibersegurança,4,3391.55,6.0
+TRX-10630,10-Out,Sudeste,Hardware & Servidores,20,3466.57,15.0
+TRX-10631,12-Dez,Centro-Oeste,Cloud & Storage,16,12859.54,10.0
+TRX-10632,07-Jul,Sul,Licenças SaaS,7,1458.73,15.0
+TRX-10633,08-Ago,Sul,Licenças SaaS,22,1210.79,21.0
+TRX-10634,02-Fev,Centro-Oeste,Hardware & Servidores,29,1264.42,16.0
+TRX-10635,06-Jun,Centro-Oeste,Consultoria Dados,11,2140.82,20.0
+TRX-10636,08-Ago,Norte,Cloud & Storage,24,6033.33,9.0
+TRX-10637,04-Abr,Centro-Oeste,Licenças SaaS,1,6278.73,19.0
+TRX-10638,04-Abr,Norte,Licenças SaaS,26,2578.91,22.0
+TRX-10639,06-Jun,Centro-Oeste,Licenças SaaS,29,3757.39,14.0
+TRX-10640,01-Jan,Sudeste,Consultoria Dados,27,1852.71,26.0
+TRX-10641,05-Mai,Sul,Cloud & Storage,7,1967.84,10.0
+TRX-10642,04-Abr,Nordeste,Licenças SaaS,12,5579.83,11.0
+TRX-10643,05-Mai,Sudeste,Hardware & Servidores,7,7562.78,17.0
+TRX-10644,02-Fev,Sul,Licenças SaaS,27,2807.55,14.0
+TRX-10645,12-Dez,Sudeste,Licenças SaaS,23,11078.48,10.0
+TRX-10646,08-Ago,Norte,Licenças SaaS,7,7169.87,17.0
+TRX-10647,09-Set,Sudeste,Cloud & Storage,10,10771.1,16.0
+TRX-10648,11-Nov,Sudeste,Licenças SaaS,16,3147.58,11.0
+TRX-10649,07-Jul,Sudeste,Hardware & Servidores,26,10285.04,15.0
+TRX-10650,02-Fev,Sul,Hardware & Servidores,8,15783.22,18.0
+TRX-10651,08-Ago,Sudeste,Licenças SaaS,9,2927.38,11.0
+TRX-10652,08-Ago,Sudeste,Cloud & Storage,9,3462.65,17.0
+TRX-10653,10-Out,Sul,Licenças SaaS,2,2067.27,10.0
+TRX-10654,06-Jun,Centro-Oeste,Cloud & Storage,13,1819.4,11.0
+TRX-10655,02-Fev,Sudeste,Hardware & Servidores,13,1833.24,20.0
+TRX-10656,05-Mai,Nordeste,Licenças SaaS,23,2258.71,17.0
+TRX-10657,06-Jun,Nordeste,Cibersegurança,23,4576.0,5.0
+TRX-10658,09-Set,Sul,Hardware & Servidores,4,2321.62,12.0
+TRX-10659,08-Ago,Centro-Oeste,Licenças SaaS,25,4485.95,16.0
+TRX-10660,05-Mai,Sudeste,Cibersegurança,24,4546.67,15.0
+TRX-10661,12-Dez,Nordeste,Cibersegurança,12,2819.79,17.0
+TRX-10662,08-Ago,Sul,Cloud & Storage,17,3674.92,15.0
+TRX-10663,04-Abr,Centro-Oeste,Licenças SaaS,2,2715.84,13.0
+TRX-10664,02-Fev,Sudeste,Licenças SaaS,13,3127.59,13.0
+TRX-10665,03-Mar,Sudeste,Licenças SaaS,29,2262.53,19.0
+TRX-10666,04-Abr,Sul,Hardware & Servidores,18,4042.7,17.0
+TRX-10667,03-Mar,Centro-Oeste,Licenças SaaS,28,2590.6,16.0
+TRX-10668,03-Mar,Centro-Oeste,Licenças SaaS,28,1793.74,14.0
+TRX-10669,05-Mai,Sudeste,Licenças SaaS,27,5629.23,11.0
+TRX-10670,03-Mar,Sudeste,Cloud & Storage,15,5754.51,12.0
+TRX-10671,12-Dez,Sudeste,Licenças SaaS,8,7884.11,19.0
+TRX-10672,02-Fev,Centro-Oeste,Licenças SaaS,15,1966.76,19.0
+TRX-10673,07-Jul,Sul,Hardware & Servidores,1,2800.06,11.0
+TRX-10674,06-Jun,Nordeste,Cloud & Storage,20,4446.28,14.0
+TRX-10675,12-Dez,Sudeste,Licenças SaaS,10,2761.9,16.0
+TRX-10676,02-Fev,Sudeste,Hardware & Servidores,12,5547.45,16.0
+TRX-10677,06-Jun,Sul,Consultoria Dados,5,5290.44,16.0
+TRX-10678,12-Dez,Sul,Licenças SaaS,9,50.0,8.0
+TRX-10679,11-Nov,Sudeste,Cibersegurança,23,9885.1,8.0
+TRX-10680,11-Nov,Sudeste,Cloud & Storage,8,5817.64,20.0
+TRX-10681,04-Abr,Nordeste,Cloud & Storage,16,4230.3,22.0
+TRX-10682,03-Mar,Sul,Consultoria Dados,14,3375.17,7.0
+TRX-10683,09-Set,Sudeste,Cloud & Storage,27,3531.54,14.0
+TRX-10684,12-Dez,Sudeste,Licenças SaaS,25,1916.51,18.0
+TRX-10685,08-Ago,Sul,Cloud & Storage,13,1214.74,3.0
+TRX-10686,08-Ago,Sul,Hardware & Servidores,23,5174.21,9.0
+TRX-10687,04-Abr,Sudeste,Hardware & Servidores,21,8479.12,14.0
+TRX-10688,10-Out,Sudeste,Cibersegurança,13,3088.45,11.0
+TRX-10689,03-Mar,Sudeste,Consultoria Dados,5,10738.72,15.0
+TRX-10690,05-Mai,Sudeste,Cloud & Storage,16,3412.73,21.0
+TRX-10691,06-Jun,Sudeste,Cloud & Storage,26,1074.97,10.0
+TRX-10692,07-Jul,Sul,Cloud & Storage,11,6952.54,14.0
+TRX-10693,04-Abr,Sudeste,Cibersegurança,22,2803.05,12.0
+TRX-10694,02-Fev,Norte,Cloud & Storage,5,7373.93,15.0
+TRX-10695,09-Set,Sudeste,Licenças SaaS,13,1668.38,14.0
+TRX-10696,05-Mai,Centro-Oeste,Cibersegurança,28,5003.18,27.0
+TRX-10697,08-Ago,Sudeste,Cibersegurança,11,2274.92,21.0
+TRX-10698,03-Mar,Nordeste,Hardware & Servidores,25,4362.99,6.0
+TRX-10699,07-Jul,Nordeste,Consultoria Dados,19,6299.93,9.0
+TRX-10700,08-Ago,Sudeste,Cloud & Storage,3,5417.34,10.0
+TRX-10701,01-Jan,Norte,Hardware & Servidores,15,4004.16,8.0
+TRX-10702,05-Mai,Sul,Licenças SaaS,7,1562.44,7.0
+TRX-10703,03-Mar,Sul,Cibersegurança,7,6153.18,13.0
+TRX-10704,01-Jan,Nordeste,Cloud & Storage,6,7483.3,10.0
+TRX-10705,12-Dez,Nordeste,Cloud & Storage,3,1943.12,10.0
+TRX-10706,05-Mai,Sul,Licenças SaaS,13,2137.9,24.0
+TRX-10707,11-Nov,Sudeste,Hardware & Servidores,7,7691.05,11.0
+TRX-10708,04-Abr,Sul,Licenças SaaS,5,3342.63,12.0
+TRX-10709,09-Set,Sudeste,Cibersegurança,23,2174.22,18.0
+TRX-10710,10-Out,Nordeste,Cloud & Storage,18,4569.51,12.0
+TRX-10711,08-Ago,Sudeste,Cloud & Storage,22,2527.43,8.0
+TRX-10712,07-Jul,Sudeste,Cloud & Storage,8,68900.0,13.0
+TRX-10713,06-Jun,Sudeste,Licenças SaaS,17,2926.07,24.0
+TRX-10714,05-Mai,Sul,Cibersegurança,20,3093.68,12.0
+TRX-10715,12-Dez,Sudeste,Cloud & Storage,27,7877.44,9.0
+TRX-10716,11-Nov,Sudeste,Cibersegurança,1,769.28,16.0
+TRX-10717,12-Dez,Norte,Consultoria Dados,14,5489.48,12.0
+TRX-10718,02-Fev,Nordeste,Cloud & Storage,17,7076.56,28.0
+TRX-10719,10-Out,Sul,Consultoria Dados,10,2554.74,10.0
+TRX-10720,12-Dez,Nordeste,Cloud & Storage,12,7041.3,23.0
+TRX-10721,03-Mar,Nordeste,Hardware & Servidores,16,2052.13,20.0
+TRX-10722,01-Jan,Nordeste,Cloud & Storage,14,2492.42,12.0
+TRX-10723,10-Out,Sudeste,Cloud & Storage,27,2312.63,14.0
+TRX-10724,08-Ago,Sudeste,Cloud & Storage,16,7103.48,9.0
+TRX-10725,11-Nov,Sudeste,Hardware & Servidores,8,1231.25,11.0
+TRX-10726,03-Mar,Sul,Consultoria Dados,23,11115.5,12.0
+TRX-10727,11-Nov,Sul,Licenças SaaS,28,3139.41,15.0
+TRX-10728,04-Abr,Sul,Licenças SaaS,10,5708.39,7.0
+TRX-10729,03-Mar,Sudeste,Hardware & Servidores,29,5397.33,16.0
+TRX-10730,03-Mar,Centro-Oeste,Hardware & Servidores,17,4223.0,13.0
+TRX-10731,11-Nov,Sudeste,Hardware & Servidores,27,2590.36,16.0
+TRX-10732,09-Set,Sul,Licenças SaaS,29,8583.03,17.0
+TRX-10733,07-Jul,Norte,Consultoria Dados,18,2739.0,13.0
+TRX-10734,05-Mai,Norte,Cloud & Storage,20,2379.6,16.0
+TRX-10735,11-Nov,Nordeste,Hardware & Servidores,16,6771.73,14.0
+TRX-10736,06-Jun,Norte,Cibersegurança,17,4207.98,18.0
+TRX-10737,11-Nov,Sudeste,Cloud & Storage,16,9251.9,16.0
+TRX-10738,06-Jun,Norte,Cloud & Storage,19,3674.85,15.0
+TRX-10739,06-Jun,Sul,Cibersegurança,24,2507.22,13.0
+TRX-10740,07-Jul,Sudeste,Licenças SaaS,24,4576.01,20.0
+TRX-10741,05-Mai,Sul,Hardware & Servidores,8,2861.35,16.0
+TRX-10742,10-Out,Sul,Hardware & Servidores,6,2554.85,7.0
+TRX-10743,07-Jul,Sul,Consultoria Dados,6,6573.01,12.0
+TRX-10744,04-Abr,Sudeste,Cloud & Storage,21,12588.15,13.0
+TRX-10745,12-Dez,Nordeste,Hardware & Servidores,29,3261.03,14.0
+TRX-10746,06-Jun,Sudeste,Hardware & Servidores,9,2031.27,15.0
+TRX-10747,08-Ago,Sul,Hardware & Servidores,4,3464.26,9.0
+TRX-10748,12-Dez,Nordeste,Cloud & Storage,26,5348.76,14.0
+TRX-10749,09-Set,Sudeste,Licenças SaaS,12,4524.95,12.0
+TRX-10750,02-Fev,Sudeste,Cloud & Storage,28,8318.61,19.0
+TRX-10751,12-Dez,Centro-Oeste,Cloud & Storage,12,5897.64,9.0
+TRX-10752,09-Set,Sudeste,Licenças SaaS,23,1868.3,14.0
+TRX-10753,05-Mai,Sudeste,Cibersegurança,17,2777.6,11.0
+TRX-10754,03-Mar,Nordeste,Licenças SaaS,15,1560.03,23.0
+TRX-10755,11-Nov,Sudeste,Licenças SaaS,9,8054.95,20.0
+TRX-10756,09-Set,Sudeste,Hardware & Servidores,7,1048.67,6.0
+TRX-10757,08-Ago,Nordeste,Licenças SaaS,10,1662.09,10.0
+TRX-10758,12-Dez,Centro-Oeste,Cloud & Storage,16,2744.43,18.0
+TRX-10759,11-Nov,Sul,Consultoria Dados,12,5522.28,16.0
+TRX-10760,03-Mar,Sul,Cloud & Storage,25,2726.91,16.0
+TRX-10761,05-Mai,Sul,Consultoria Dados,7,3018.76,15.0
+TRX-10762,04-Abr,Sudeste,Licenças SaaS,18,3057.67,19.0
+TRX-10763,10-Out,Sudeste,Cloud & Storage,15,4282.57,18.0
+TRX-10764,01-Jan,Sul,Cibersegurança,6,1731.37,13.0
+TRX-10765,08-Ago,Norte,Consultoria Dados,26,2068.0,8.0
+TRX-10766,10-Out,Sudeste,Licenças SaaS,12,11414.05,6.0
+TRX-10767,11-Nov,Sul,Hardware & Servidores,11,4971.91,13.0
+TRX-10768,05-Mai,Sudeste,Licenças SaaS,20,6276.13,5.0
+TRX-10769,11-Nov,Centro-Oeste,Cloud & Storage,3,3974.76,15.0
+TRX-10770,02-Fev,Sul,Hardware & Servidores,2,3494.05,12.0
+TRX-10771,11-Nov,Sudeste,Cloud & Storage,6,5151.97,
+TRX-10772,02-Fev,Nordeste,Cloud & Storage,24,6142.27,16.0
+TRX-10773,06-Jun,Sudeste,Licenças SaaS,22,6633.91,14.0
+TRX-10774,11-Nov,Sudeste,Cloud & Storage,25,3525.35,6.0
+TRX-10775,03-Mar,Sudeste,Licenças SaaS,5,7122.36,8.0
+TRX-10776,04-Abr,Sul,Hardware & Servidores,18,770.44,17.0
+TRX-10777,10-Out,Sul,Cloud & Storage,16,6836.19,12.0
+TRX-10778,10-Out,Sudeste,Cloud & Storage,8,2900.13,27.0
+TRX-10779,09-Set,Sul,Cloud & Storage,25,5484.6,14.0
+TRX-10780,10-Out,Sul,Hardware & Servidores,26,2509.75,15.0
+TRX-10781,08-Ago,Nordeste,Hardware & Servidores,20,1615.9,7.0
+TRX-10782,04-Abr,Norte,Cibersegurança,22,4773.37,19.0
+TRX-10783,05-Mai,Nordeste,Cloud & Storage,11,1442.32,9.0
+TRX-10784,03-Mar,Nordeste,Cloud & Storage,10,2951.92,17.0
+TRX-10785,12-Dez,Sul,Cloud & Storage,24,2257.29,18.0
+TRX-10786,08-Ago,Norte,Licenças SaaS,25,3416.01,14.0
+TRX-10787,06-Jun,Sul,Consultoria Dados,12,6426.5,
+TRX-10788,07-Jul,Norte,Cloud & Storage,21,2783.88,11.0
+TRX-10789,12-Dez,Norte,Cloud & Storage,28,4696.04,22.0
+TRX-10790,03-Mar,Centro-Oeste,Hardware & Servidores,6,6189.29,8.0
+TRX-10791,08-Ago,Norte,Consultoria Dados,27,2579.33,18.0
+TRX-10792,07-Jul,Sudeste,Hardware & Servidores,20,2603.76,13.0
+TRX-10793,09-Set,Sudeste,Cloud & Storage,5,9321.36,10.0
+TRX-10794,01-Jan,Sudeste,Cloud & Storage,23,3635.12,6.0
+TRX-10795,11-Nov,Sudeste,Cloud & Storage,9,5329.11,13.0
+TRX-10796,12-Dez,Sul,Hardware & Servidores,26,5302.93,12.0
+TRX-10797,08-Ago,Sudeste,Licenças SaaS,27,1756.9,15.0
+TRX-10798,10-Out,Norte,Hardware & Servidores,29,2334.21,18.0
+TRX-10799,12-Dez,Sul,Cibersegurança,16,4885.25,10.0
+TRX-10800,10-Out,Nordeste,Hardware & Servidores,22,998.49,23.0
+TRX-10801,03-Mar,Nordeste,Hardware & Servidores,14,3336.43,11.0
+TRX-10802,08-Ago,Norte,Consultoria Dados,22,2181.06,17.0
+TRX-10803,08-Ago,Norte,Hardware & Servidores,8,7878.0,14.0
+TRX-10804,06-Jun,Sudeste,Licenças SaaS,27,4793.3,13.0
+TRX-10805,10-Out,Norte,Cibersegurança,20,8302.48,14.0
+TRX-10806,12-Dez,Centro-Oeste,Hardware & Servidores,19,3731.51,9.0
+TRX-10807,12-Dez,Sul,Consultoria Dados,14,3554.51,12.0
+TRX-10808,06-Jun,Sudeste,Cloud & Storage,7,3139.43,7.0
+TRX-10809,02-Fev,Centro-Oeste,Licenças SaaS,5,2760.05,11.0
+TRX-10810,12-Dez,Sul,Hardware & Servidores,18,21917.19,12.0
+TRX-10811,11-Nov,Sudeste,Licenças SaaS,2,6468.25,18.0
+TRX-10812,02-Fev,Centro-Oeste,Hardware & Servidores,11,1914.05,12.0
+TRX-10813,12-Dez,Sul,Cibersegurança,22,21280.59,12.0
+TRX-10814,11-Nov,Sudeste,Licenças SaaS,8,2941.76,15.0
+TRX-10815,07-Jul,Nordeste,Consultoria Dados,1,4716.15,15.0
+TRX-10816,08-Ago,Sudeste,Consultoria Dados,27,7049.69,11.0
+TRX-10817,06-Jun,Sul,Licenças SaaS,22,1408.57,16.0
+TRX-10818,01-Jan,Sul,Licenças SaaS,12,2235.54,13.0
+TRX-10819,05-Mai,Sudeste,Hardware & Servidores,2,11173.58,11.0
+TRX-10820,11-Nov,Norte,Cloud & Storage,18,3307.21,12.0
+TRX-10821,01-Jan,Sul,Cloud & Storage,7,7325.64,19.0
+TRX-10822,05-Mai,Sudeste,Cloud & Storage,26,2850.49,12.0
+TRX-10823,06-Jun,Sul,Cloud & Storage,17,3598.28,15.0
+TRX-10824,08-Ago,Sudeste,Cibersegurança,22,12214.96,8.0
+TRX-10825,12-Dez,Nordeste,Hardware & Servidores,23,5086.69,20.0
+TRX-10826,05-Mai,Centro-Oeste,Licenças SaaS,14,3059.02,11.0
+TRX-10827,05-Mai,Sul,Hardware & Servidores,24,2454.83,16.0
+TRX-10828,10-Out,Sudeste,Cloud & Storage,7,2605.24,13.0
+TRX-10829,06-Jun,Sul,Cibersegurança,22,8578.5,16.0
+TRX-10830,04-Abr,Sudeste,Licenças SaaS,25,49200.0,
+TRX-10831,06-Jun,Centro-Oeste,Licenças SaaS,29,1814.13,13.0
+TRX-10832,03-Mar,Sul,Cibersegurança,3,4050.79,5.0
+TRX-10833,03-Mar,Sudeste,Hardware & Servidores,27,3664.95,19.0
+TRX-10834,07-Jul,Sudeste,Cibersegurança,6,4700.67,13.0
+TRX-10835,06-Jun,Nordeste,Hardware & Servidores,20,2585.51,16.0
+TRX-10836,12-Dez,Norte,Cloud & Storage,2,7813.23,17.0
+TRX-10837,06-Jun,Sul,Cloud & Storage,17,3824.3,12.0
+TRX-10838,08-Ago,Centro-Oeste,Hardware & Servidores,12,4879.19,17.0
+TRX-10839,09-Set,Sudeste,Cloud & Storage,12,2298.36,10.0
+TRX-10840,01-Jan,Sudeste,Consultoria Dados,17,2374.87,16.0
+TRX-10841,09-Set,Centro-Oeste,Consultoria Dados,27,21533.87,14.0
+TRX-10842,03-Mar,Nordeste,Cloud & Storage,10,12333.22,12.0
+TRX-10843,12-Dez,Norte,Hardware & Servidores,3,3658.13,14.0
+TRX-10844,03-Mar,Sudeste,Hardware & Servidores,20,10367.72,9.0
+TRX-10845,06-Jun,Sudeste,Cloud & Storage,18,8419.28,16.0
+TRX-10846,02-Fev,Nordeste,Consultoria Dados,13,2549.4,16.0
+TRX-10847,12-Dez,Sudeste,Hardware & Servidores,12,2389.39,16.0
+TRX-10848,07-Jul,Sudeste,Licenças SaaS,27,5911.41,22.0
+TRX-10849,08-Ago,Sudeste,Hardware & Servidores,27,4532.55,14.0
+TRX-10850,01-Jan,Centro-Oeste,Consultoria Dados,27,2947.45,14.0
+TRX-10851,10-Out,Sul,Cloud & Storage,17,6116.82,8.0
+TRX-10852,04-Abr,Sul,Licenças SaaS,4,1498.75,
+TRX-10853,12-Dez,Nordeste,Cloud & Storage,23,4124.71,7.0
+TRX-10854,04-Abr,Sul,Cibersegurança,10,1710.77,15.0
+TRX-10855,03-Mar,Sudeste,Hardware & Servidores,11,1747.79,11.0
+TRX-10856,01-Jan,Sul,Hardware & Servidores,6,2417.77,14.0
+TRX-10857,07-Jul,Sul,Consultoria Dados,6,4847.1,7.0
+TRX-10858,08-Ago,Sul,Consultoria Dados,27,2467.83,18.0
+TRX-10859,01-Jan,Sul,Licenças SaaS,9,1734.07,9.0
+TRX-10860,11-Nov,Nordeste,Cibersegurança,15,5219.79,20.0
+TRX-10861,06-Jun,Sudeste,Licenças SaaS,2,10099.95,9.0
+TRX-10862,07-Jul,Norte,Hardware & Servidores,4,5797.91,19.0
+TRX-10863,06-Jun,Sudeste,Cloud & Storage,5,12347.01,10.0
+TRX-10864,06-Jun,Sudeste,Cloud & Storage,17,9565.96,11.0
+TRX-10865,08-Ago,Sudeste,Cibersegurança,8,2788.26,14.0
+TRX-10866,03-Mar,Sudeste,Cloud & Storage,8,5772.75,10.0
+TRX-10867,03-Mar,Centro-Oeste,Hardware & Servidores,22,3606.31,10.0
+TRX-10868,11-Nov,Sudeste,Cibersegurança,12,7633.98,10.0
+TRX-10869,12-Dez,Sudeste,Licenças SaaS,21,3605.88,16.0
+TRX-10870,06-Jun,Nordeste,Cloud & Storage,8,2292.38,14.0
+TRX-10871,04-Abr,Norte,Hardware & Servidores,19,9346.09,14.0
+TRX-10872,09-Set,Nordeste,Hardware & Servidores,3,4705.88,12.0
+TRX-10873,06-Jun,Sudeste,Cloud & Storage,18,2486.68,17.0
+TRX-10874,01-Jan,Nordeste,Cloud & Storage,21,2767.85,19.0
+TRX-10875,03-Mar,Sudeste,Cibersegurança,19,2476.38,17.0
+TRX-10876,10-Out,Sudeste,Cibersegurança,19,1995.93,13.0
+TRX-10877,09-Set,Sul,Licenças SaaS,15,2806.28,8.0
+TRX-10878,01-Jan,Sudeste,Cloud & Storage,6,4877.87,4.0
+TRX-10879,04-Abr,Sul,Licenças SaaS,16,3990.37,14.0
+TRX-10880,04-Abr,Sudeste,Cloud & Storage,8,2878.89,4.0
+TRX-10881,09-Set,Nordeste,Cloud & Storage,16,10118.09,13.0
+TRX-10882,01-Jan,Sul,Licenças SaaS,18,1035.96,21.0
+TRX-10883,02-Fev,Sul,Hardware & Servidores,20,4670.35,8.0
+TRX-10884,11-Nov,Sul,Hardware & Servidores,16,3488.43,8.0
+TRX-10885,03-Mar,Norte,Licenças SaaS,11,2037.3,17.0
+TRX-10886,09-Set,Sudeste,Cloud & Storage,7,4850.78,1.0
+TRX-10887,04-Abr,Sudeste,Licenças SaaS,17,3318.15,16.0
+TRX-10888,02-Fev,Nordeste,Hardware & Servidores,17,8609.3,21.0
+TRX-10889,04-Abr,Nordeste,Licenças SaaS,12,6729.41,10.0
+TRX-10890,10-Out,Sudeste,Cloud & Storage,13,13213.38,9.0
+TRX-10891,11-Nov,Centro-Oeste,Hardware & Servidores,10,2795.72,17.0
+TRX-10892,11-Nov,Nordeste,Cibersegurança,7,9487.78,8.0
+TRX-10893,06-Jun,Centro-Oeste,Cloud & Storage,14,1793.98,18.0
+TRX-10894,09-Set,Sul,Cloud & Storage,23,3562.03,9.0
+TRX-10895,04-Abr,Nordeste,Hardware & Servidores,1,2828.75,23.0
+TRX-10896,05-Mai,Sudeste,Hardware & Servidores,17,5662.32,17.0
+TRX-10897,12-Dez,Sudeste,Cloud & Storage,4,5574.06,14.0
+TRX-10898,01-Jan,Sudeste,Hardware & Servidores,21,2131.53,23.0
+TRX-10899,02-Fev,Sul,Consultoria Dados,5,5871.26,19.0
+TRX-10900,04-Abr,Sul,Hardware & Servidores,20,2988.96,16.0
+TRX-10901,01-Jan,Centro-Oeste,Cloud & Storage,24,2250.89,5.0
+TRX-10902,03-Mar,Sul,Hardware & Servidores,23,3798.43,10.0
+TRX-10903,08-Ago,Sudeste,Cloud & Storage,25,1465.65,19.0
+TRX-10904,06-Jun,Sudeste,Consultoria Dados,7,7011.8,7.0
+TRX-10905,12-Dez,Sul,Hardware & Servidores,10,3691.72,10.0
+TRX-10906,11-Nov,Norte,Consultoria Dados,17,3744.58,9.0
+TRX-10907,05-Mai,Sul,Cloud & Storage,29,3616.79,16.0
+TRX-10908,04-Abr,Sudeste,Licenças SaaS,7,11164.03,19.0
+TRX-10909,06-Jun,Sudeste,Cibersegurança,1,10272.96,19.0
+TRX-10910,08-Ago,Sul,Licenças SaaS,7,9209.54,10.0
+TRX-10911,04-Abr,Sul,Cibersegurança,26,3621.79,16.0
+TRX-10912,09-Set,Centro-Oeste,Cibersegurança,24,1853.52,10.0
+TRX-10913,06-Jun,Norte,Hardware & Servidores,11,3788.08,13.0
+TRX-10914,08-Ago,Sul,Hardware & Servidores,9,4695.5,17.0
+TRX-10915,06-Jun,Centro-Oeste,Consultoria Dados,12,6491.16,19.0
+TRX-10916,05-Mai,Centro-Oeste,Cloud & Storage,3,4685.69,3.0
+TRX-10917,12-Dez,Nordeste,Cloud & Storage,4,1964.08,14.0
+TRX-10918,10-Out,Sudeste,Licenças SaaS,4,2702.63,21.0
+TRX-10919,03-Mar,Sudeste,Cloud & Storage,28,2547.87,15.0
+TRX-10920,11-Nov,Sudeste,Consultoria Dados,25,5433.75,14.0
+TRX-10921,07-Jul,Centro-Oeste,Licenças SaaS,13,5521.13,11.0
+TRX-10922,12-Dez,Nordeste,Cibersegurança,23,6011.99,21.0
+TRX-10923,11-Nov,Sul,Licenças SaaS,19,4654.89,11.0
+TRX-10924,06-Jun,Sudeste,Hardware & Servidores,10,1003.77,13.0
+TRX-10925,01-Jan,Nordeste,Cloud & Storage,5,1246.62,12.0
+TRX-10926,04-Abr,Nordeste,Cloud & Storage,7,3494.26,15.0
+TRX-10927,08-Ago,Norte,Cloud & Storage,24,4079.59,21.0
+TRX-10928,09-Set,Centro-Oeste,Licenças SaaS,16,8646.26,9.0
+TRX-10929,04-Abr,Sudeste,Consultoria Dados,1,4026.15,15.0
+TRX-10930,03-Mar,Sudeste,Cloud & Storage,12,2029.68,16.0
+TRX-10931,11-Nov,Centro-Oeste,Cloud & Storage,2,5886.44,10.0
+TRX-10932,12-Dez,Sul,Consultoria Dados,7,3784.94,14.0
+TRX-10933,07-Jul,Sudeste,Cloud & Storage,11,2947.36,23.0
+TRX-10934,03-Mar,Centro-Oeste,Cloud & Storage,29,1340.11,5.0
+TRX-10935,04-Abr,Sul,Cloud & Storage,13,4045.55,12.0
+TRX-10936,01-Jan,Nordeste,Consultoria Dados,2,4441.43,15.0
+TRX-10937,12-Dez,Sudeste,Cibersegurança,7,2003.21,12.0
+TRX-10938,02-Fev,Norte,Licenças SaaS,15,6209.48,28.0
+TRX-10939,08-Ago,Sul,Licenças SaaS,25,5858.32,17.0
+TRX-10940,04-Abr,Sudeste,Cloud & Storage,11,3951.27,9.0
+TRX-10941,08-Ago,Sudeste,Cloud & Storage,2,3856.9,2.0
+TRX-10942,09-Set,Sudeste,Licenças SaaS,7,7079.26,16.0
+TRX-10943,11-Nov,Centro-Oeste,Cloud & Storage,4,4860.49,10.0
+TRX-10944,04-Abr,Centro-Oeste,Licenças SaaS,11,2424.87,20.0
+TRX-10945,01-Jan,Sul,Consultoria Dados,29,3366.16,13.0
+TRX-10946,03-Mar,Sudeste,Cibersegurança,2,5496.97,11.0
+TRX-10947,12-Dez,Sudeste,Licenças SaaS,29,1021.46,11.0
+TRX-10948,11-Nov,Sudeste,Licenças SaaS,16,2089.14,19.0
+TRX-10949,08-Ago,Norte,Licenças SaaS,7,5963.36,16.0
+TRX-10950,08-Ago,Nordeste,Cloud & Storage,13,58700.0,23.0
+TRX-10951,09-Set,Centro-Oeste,Hardware & Servidores,5,7432.98,13.0
+TRX-10952,03-Mar,Centro-Oeste,Cloud & Storage,17,6840.67,18.0
+TRX-10953,12-Dez,Sudeste,Licenças SaaS,21,4164.43,18.0
+TRX-10954,06-Jun,Norte,Cloud & Storage,12,1961.01,17.0
+TRX-10955,06-Jun,Centro-Oeste,Licenças SaaS,28,3368.41,11.0
+TRX-10956,07-Jul,Centro-Oeste,Cloud & Storage,19,1047.72,16.0
+TRX-10957,01-Jan,Nordeste,Cibersegurança,7,8914.43,14.0
+TRX-10958,03-Mar,Sudeste,Hardware & Servidores,6,2250.43,13.0
+TRX-10959,10-Out,Nordeste,Licenças SaaS,8,2706.27,10.0
+TRX-10960,02-Fev,Sul,Cibersegurança,13,7616.73,3.0
+TRX-10961,08-Ago,Sudeste,Cloud & Storage,5,1340.09,20.0
+TRX-10962,04-Abr,Sudeste,Cloud & Storage,2,1766.73,16.0
+TRX-10963,06-Jun,Norte,Licenças SaaS,9,4555.91,7.0
+TRX-10964,05-Mai,Nordeste,Cloud & Storage,11,5368.2,18.0
+TRX-10965,05-Mai,Centro-Oeste,Cloud & Storage,24,3653.33,20.0
+TRX-10966,10-Out,Centro-Oeste,Consultoria Dados,6,3731.61,18.0
+TRX-10967,05-Mai,Sudeste,Licenças SaaS,29,8729.35,10.0
+TRX-10968,08-Ago,Norte,Consultoria Dados,26,5788.38,10.0
+TRX-10969,07-Jul,Sudeste,Cloud & Storage,7,5301.58,11.0
+TRX-10970,09-Set,Sudeste,Cloud & Storage,25,6337.06,18.0
+TRX-10971,12-Dez,Sul,Licenças SaaS,7,3148.3,16.0
+TRX-10972,10-Out,Nordeste,Cibersegurança,19,15717.93,28.0
+TRX-10973,04-Abr,Centro-Oeste,Licenças SaaS,6,854.15,6.0
+TRX-10974,01-Jan,Sudeste,Cloud & Storage,11,9873.88,14.0
+TRX-10975,04-Abr,Sul,Cloud & Storage,29,6879.97,4.0
+TRX-10976,08-Ago,Nordeste,Hardware & Servidores,11,4498.0,17.0
+TRX-10977,01-Jan,Sul,Cloud & Storage,7,4032.0,19.0
+TRX-10978,07-Jul,Centro-Oeste,Hardware & Servidores,2,3459.54,21.0
+TRX-10979,08-Ago,Norte,Hardware & Servidores,19,7841.91,15.0
+TRX-10980,05-Mai,Sudeste,Consultoria Dados,4,3729.72,4.0
+TRX-10981,11-Nov,Sul,Cloud & Storage,26,2384.81,14.0
+TRX-10982,02-Fev,Centro-Oeste,Licenças SaaS,6,6879.41,16.0
+TRX-10983,02-Fev,Nordeste,Licenças SaaS,17,10722.48,9.0
+TRX-10984,10-Out,Sudeste,Cibersegurança,25,1093.72,13.0
+TRX-10985,07-Jul,Norte,Hardware & Servidores,5,17713.98,8.0
+TRX-10986,09-Set,Sul,Licenças SaaS,29,1951.05,11.0
+TRX-10987,06-Jun,Sudeste,Cibersegurança,28,2050.43,19.0
+TRX-10988,04-Abr,Centro-Oeste,Licenças SaaS,7,1704.15,17.0
+TRX-10989,11-Nov,Nordeste,Licenças SaaS,9,3829.74,7.0
+TRX-10990,11-Nov,Sul,Consultoria Dados,25,1666.0,10.0
+TRX-10991,10-Out,Nordeste,Cibersegurança,1,1802.86,14.0
+TRX-10992,04-Abr,Sudeste,Cloud & Storage,1,2446.57,15.0
+TRX-10993,08-Ago,Sudeste,Cibersegurança,19,4188.07,11.0
+TRX-10994,06-Jun,Sul,Hardware & Servidores,6,4458.89,16.0
+TRX-10995,02-Fev,Nordeste,Licenças SaaS,18,8576.47,14.0
+TRX-10996,12-Dez,Sul,Hardware & Servidores,10,8448.94,1.0
+TRX-10997,03-Mar,Sudeste,Cloud & Storage,28,7450.21,11.0
+TRX-10998,12-Dez,Sudeste,Licenças SaaS,11,3229.07,11.0
+TRX-10999,06-Jun,Nordeste,Cibersegurança,1,1156.59,17.0
+TRX-11000,03-Mar,Centro-Oeste,Cloud & Storage,1,1140.07,17.0
+TRX-11001,08-Ago,Nordeste,Cloud & Storage,13,7416.96,6.0
+TRX-11002,11-Nov,Sudeste,Licenças SaaS,5,6623.91,16.0
+TRX-11003,10-Out,Sudeste,Cloud & Storage,20,2563.53,14.0
+TRX-11004,11-Nov,Sudeste,Licenças SaaS,1,1500.45,15.0
+TRX-11005,09-Set,Nordeste,Hardware & Servidores,20,1937.88,11.0
+TRX-11006,10-Out,Nordeste,Licenças SaaS,3,4287.9,
+TRX-11007,11-Nov,Sul,Licenças SaaS,18,4293.1,20.0
+TRX-11008,04-Abr,Centro-Oeste,Hardware & Servidores,9,7537.5,15.0
+TRX-11009,07-Jul,Sul,Cloud & Storage,14,2856.26,14.0
+TRX-11010,04-Abr,Sudeste,Hardware & Servidores,27,3266.18,12.0
+TRX-11011,12-Dez,Sudeste,Licenças SaaS,17,7954.23,19.0
+TRX-11012,12-Dez,Sudeste,Cibersegurança,23,961.69,8.0
+TRX-11013,01-Jan,Sudeste,Cibersegurança,14,4704.83,10.0
+TRX-11014,10-Out,Sudeste,Hardware & Servidores,29,3080.2,7.0
+TRX-11015,12-Dez,Sudeste,Cloud & Storage,4,6083.25,15.0
+TRX-11016,03-Mar,Centro-Oeste,Hardware & Servidores,5,5341.14,20.0
+TRX-11017,08-Ago,Sudeste,Cloud & Storage,26,2434.26,12.0
+TRX-11018,12-Dez,Sul,Cibersegurança,21,2752.41,9.0
+TRX-11019,01-Jan,Nordeste,Licenças SaaS,17,857.24,22.0
+TRX-11020,10-Out,Sudeste,Licenças SaaS,22,6232.26,16.0
+TRX-11021,05-Mai,Sudeste,Cloud & Storage,29,4473.17,15.0
+TRX-11022,12-Dez,Centro-Oeste,Consultoria Dados,25,9499.87,13.0
+TRX-11023,12-Dez,Sudeste,Licenças SaaS,2,2952.45,17.0
+TRX-11024,12-Dez,Sul,Consultoria Dados,23,6934.87,15.0
+TRX-11025,07-Jul,Sudeste,Cibersegurança,22,1909.41,12.0
+TRX-11026,11-Nov,Norte,Cloud & Storage,5,659.77,12.0
+TRX-11027,11-Nov,Sudeste,Hardware & Servidores,4,3599.56,9.0
+TRX-11028,05-Mai,Centro-Oeste,Licenças SaaS,4,2648.26,8.0
+TRX-11029,11-Nov,Sudeste,Hardware & Servidores,6,1933.27,13.0
+TRX-11030,01-Jan,Sul,Cloud & Storage,20,6862.1,20.0
+TRX-11031,08-Ago,Sudeste,Cibersegurança,21,8394.74,9.0
+TRX-11032,04-Abr,Centro-Oeste,Cibersegurança,13,4099.1,18.0
+TRX-11033,02-Fev,Sul,Cibersegurança,22,3399.43,10.0
+TRX-11034,02-Fev,Sudeste,Hardware & Servidores,5,3986.86,5.0
+TRX-11035,10-Out,Sudeste,Cloud & Storage,23,2503.88,17.0
+TRX-11036,05-Mai,Sudeste,Cibersegurança,25,5517.54,22.0
+TRX-11037,10-Out,Norte,Consultoria Dados,26,1407.27,
+TRX-11038,01-Jan,Sul,Licenças SaaS,23,1905.5,6.0
+TRX-11039,05-Mai,Sudeste,Consultoria Dados,7,2288.56,16.0
+TRX-11040,08-Ago,Sul,Licenças SaaS,20,5441.89,9.0
+TRX-11041,11-Nov,Norte,Cibersegurança,1,3144.41,17.0
+TRX-11042,05-Mai,Sul,Hardware & Servidores,14,9267.36,20.0
+TRX-11043,09-Set,Sudeste,Licenças SaaS,24,6452.04,16.0
+TRX-11044,12-Dez,Centro-Oeste,Cibersegurança,4,2273.99,18.0
+TRX-11045,09-Set,Centro-Oeste,Cibersegurança,17,5777.65,18.0
+TRX-11046,04-Abr,Sudeste,Cloud & Storage,21,2935.59,19.0
+TRX-11047,01-Jan,Sudeste,Cibersegurança,14,5206.0,14.0
+TRX-11048,11-Nov,Sudeste,Cloud & Storage,16,6658.52,18.0
+TRX-11049,01-Jan,Sudeste,Cibersegurança,14,7899.58,15.0
+TRX-11050,11-Nov,Sul,Hardware & Servidores,16,4364.74,16.0
+TRX-11051,07-Jul,Sudeste,Licenças SaaS,24,10830.05,29.0
+TRX-11052,12-Dez,Sudeste,Hardware & Servidores,20,5099.28,15.0
+TRX-11053,11-Nov,Sudeste,Hardware & Servidores,29,4178.82,7.0
+TRX-11054,12-Dez,Centro-Oeste,Cloud & Storage,28,3144.36,13.0
+TRX-11055,05-Mai,Norte,Licenças SaaS,8,2539.31,12.0
+TRX-11056,10-Out,Sudeste,Cloud & Storage,24,5028.74,13.0
+TRX-11057,06-Jun,Sul,Cloud & Storage,3,4086.7,19.0
+TRX-11058,07-Jul,Sul,Cibersegurança,25,4534.8,20.0
+TRX-11059,09-Set,Norte,Cloud & Storage,19,5231.66,13.0
+TRX-11060,11-Nov,Sudeste,Consultoria Dados,1,4522.37,7.0
+TRX-11061,12-Dez,Sul,Consultoria Dados,2,14166.6,14.0
+TRX-11062,10-Out,Sudeste,Cibersegurança,15,2715.75,11.0
+TRX-11063,06-Jun,Sudeste,Cloud & Storage,22,5069.47,15.0
+TRX-11064,06-Jun,Sudeste,Licenças SaaS,28,3301.06,13.0
+TRX-11065,10-Out,Sudeste,Hardware & Servidores,10,772.82,20.0
+TRX-11066,04-Abr,Sul,Cloud & Storage,18,3375.31,15.0
+TRX-11067,02-Fev,Norte,Cloud & Storage,22,2082.4,11.0
+TRX-11068,05-Mai,Sudeste,Consultoria Dados,14,3664.93,7.0
+TRX-11069,05-Mai,Centro-Oeste,Hardware & Servidores,17,3762.5,14.0
+TRX-11070,05-Mai,Centro-Oeste,Cibersegurança,27,4917.14,14.0
+TRX-11071,04-Abr,Sudeste,Licenças SaaS,13,2711.84,13.0
+TRX-11072,01-Jan,Sudeste,Cloud & Storage,1,2941.54,18.0
+TRX-11073,01-Jan,Sudeste,Hardware & Servidores,5,6035.72,7.0
+TRX-11074,12-Dez,Sudeste,Consultoria Dados,26,2262.24,10.0
+TRX-11075,06-Jun,Nordeste,Cibersegurança,13,1158.64,14.0
+TRX-11076,06-Jun,Norte,Cibersegurança,27,4238.95,11.0
+TRX-11077,09-Set,Sul,Cloud & Storage,25,7677.52,12.0
+TRX-11078,04-Abr,Sul,Cloud & Storage,14,5990.72,14.0
+TRX-11079,12-Dez,Norte,Cloud & Storage,24,4290.1,17.0
+TRX-11080,11-Nov,Centro-Oeste,Hardware & Servidores,3,8629.31,13.0
+TRX-11081,02-Fev,Nordeste,Hardware & Servidores,15,7733.46,4.0
+TRX-11082,06-Jun,Sul,Licenças SaaS,19,3086.85,11.0
+TRX-11083,11-Nov,Sudeste,Cloud & Storage,17,4495.76,16.0
+TRX-11084,12-Dez,Centro-Oeste,Hardware & Servidores,3,4623.0,18.0
+TRX-11085,07-Jul,Centro-Oeste,Cibersegurança,16,3617.77,18.0
+TRX-11086,09-Set,Sudeste,Licenças SaaS,14,8000.51,20.0
+TRX-11087,03-Mar,Sul,Hardware & Servidores,12,3467.22,15.0
+TRX-11088,12-Dez,Sudeste,Cibersegurança,28,2765.06,15.0
+TRX-11089,04-Abr,Sudeste,Hardware & Servidores,12,710.17,9.0
+TRX-11090,12-Dez,Sudeste,Hardware & Servidores,29,2278.11,3.0
+TRX-11091,09-Set,Norte,Hardware & Servidores,11,1627.79,7.0
+TRX-11092,08-Ago,Sudeste,Licenças SaaS,17,3728.43,10.0
+TRX-11093,07-Jul,Nordeste,Hardware & Servidores,8,1694.43,7.0
+TRX-11094,04-Abr,Sul,Hardware & Servidores,17,5685.33,13.0
+TRX-11095,03-Mar,Centro-Oeste,Cloud & Storage,21,7867.41,12.0
+TRX-11096,04-Abr,Norte,Licenças SaaS,25,3750.89,19.0
+TRX-11097,03-Mar,Sul,Cloud & Storage,23,2019.06,9.0
+TRX-11098,11-Nov,Sul,Cloud & Storage,20,4610.82,15.0
+TRX-11099,05-Mai,Sudeste,Hardware & Servidores,11,13105.13,12.0
+TRX-11100,01-Jan,Sul,Cloud & Storage,25,10706.57,9.0
+TRX-11101,12-Dez,Centro-Oeste,Cibersegurança,25,1534.64,10.0
+TRX-11102,12-Dez,Nordeste,Cibersegurança,2,1498.07,4.0
+TRX-11103,12-Dez,Sudeste,Cloud & Storage,10,1268.13,18.0
+TRX-11104,12-Dez,Sudeste,Cloud & Storage,10,1827.97,21.0
+TRX-11105,03-Mar,Sudeste,Hardware & Servidores,11,4507.67,13.0
+TRX-11106,06-Jun,Centro-Oeste,Cloud & Storage,28,2665.5,14.0
+TRX-11107,10-Out,Sul,Hardware & Servidores,6,2219.12,13.0
+TRX-11108,10-Out,Sudeste,Licenças SaaS,4,7520.75,10.0
+TRX-11109,03-Mar,Sudeste,Consultoria Dados,24,5402.19,18.0
+TRX-11110,11-Nov,Sudeste,Consultoria Dados,12,1263.88,16.0
+TRX-11111,04-Abr,Sul,Licenças SaaS,11,7245.39,1.0
+TRX-11112,04-Abr,Centro-Oeste,Cibersegurança,23,5318.37,9.0
+TRX-11113,08-Ago,Sul,Licenças SaaS,23,5395.77,4.0
+TRX-11114,08-Ago,Sul,Cloud & Storage,27,2641.74,22.0
+TRX-11115,08-Ago,Nordeste,Cibersegurança,26,3388.87,13.0
+TRX-11116,02-Fev,Centro-Oeste,Cloud & Storage,25,1061.81,15.0
+TRX-11117,11-Nov,Sul,Cloud & Storage,13,6724.69,12.0
+TRX-11118,04-Abr,Sul,Licenças SaaS,5,1999.59,20.0
+TRX-11119,02-Fev,Sul,Cloud & Storage,6,2173.49,18.0
+TRX-11120,12-Dez,Sudeste,Cloud & Storage,1,63400.0,13.0
+TRX-11121,12-Dez,Sul,Consultoria Dados,6,12335.8,23.0
+TRX-11122,11-Nov,Sul,Hardware & Servidores,18,2478.34,15.0
+TRX-11123,11-Nov,Sudeste,Cloud & Storage,22,7061.9,7.0
+TRX-11124,09-Set,Centro-Oeste,Consultoria Dados,9,3768.4,15.0
+TRX-11125,08-Ago,Sudeste,Cibersegurança,24,2232.95,17.0
+TRX-11126,02-Fev,Centro-Oeste,Cibersegurança,25,1984.73,13.0
+TRX-11127,06-Jun,Sul,Cloud & Storage,29,2543.37,12.0
+TRX-11128,06-Jun,Norte,Cloud & Storage,15,3646.78,23.0
+TRX-11129,04-Abr,Nordeste,Licenças SaaS,26,5659.72,8.0
+TRX-11130,10-Out,Nordeste,Cibersegurança,8,2818.2,1.0
+TRX-11131,07-Jul,Nordeste,Cibersegurança,19,2750.48,22.0
+TRX-11132,02-Fev,Norte,Hardware & Servidores,24,2158.67,8.0
+TRX-11133,04-Abr,Sudeste,Hardware & Servidores,16,1761.41,13.0
+TRX-11134,09-Set,Sul,Consultoria Dados,6,1668.2,12.0
+TRX-11135,02-Fev,Sudeste,Cloud & Storage,29,7275.14,20.0
+TRX-11136,11-Nov,Centro-Oeste,Cibersegurança,6,2714.21,21.0
+TRX-11137,07-Jul,Centro-Oeste,Hardware & Servidores,22,2875.04,8.0
+TRX-11138,07-Jul,Sudeste,Licenças SaaS,3,2481.71,21.0
+TRX-11139,08-Ago,Sul,Consultoria Dados,10,3115.18,21.0
+TRX-11140,11-Nov,Sudeste,Cibersegurança,1,4871.7,14.0
+TRX-11141,05-Mai,Norte,Hardware & Servidores,28,2789.25,19.0
+TRX-11142,09-Set,Sudeste,Cibersegurança,14,4304.78,19.0
+TRX-11143,08-Ago,Sudeste,Licenças SaaS,4,9622.27,13.0
+TRX-11144,04-Abr,Sudeste,Cloud & Storage,26,2246.7,13.0
+TRX-11145,11-Nov,Sudeste,Licenças SaaS,12,2876.55,17.0
+TRX-11146,11-Nov,Nordeste,Cibersegurança,6,5806.24,6.0
+TRX-11147,09-Set,Centro-Oeste,Licenças SaaS,11,10129.86,12.0
+TRX-11148,11-Nov,Nordeste,Cibersegurança,12,1707.01,8.0
+TRX-11149,11-Nov,Sudeste,Hardware & Servidores,10,1267.09,21.0
+TRX-11150,10-Out,Sudeste,Cloud & Storage,18,3826.12,12.0
+TRX-11151,11-Nov,Sul,Cloud & Storage,7,3577.72,15.0
+TRX-11152,10-Out,Centro-Oeste,Consultoria Dados,7,6033.67,13.0
+TRX-11153,09-Set,Sudeste,Licenças SaaS,11,5463.88,13.0
+TRX-11154,09-Set,Sudeste,Licenças SaaS,4,3744.05,15.0
+TRX-11155,10-Out,Sudeste,Cloud & Storage,20,7570.31,10.0
+TRX-11156,03-Mar,Norte,Hardware & Servidores,1,2458.58,13.0
+TRX-11157,12-Dez,Sul,Licenças SaaS,13,4391.95,13.0
+TRX-11158,11-Nov,Nordeste,Cloud & Storage,18,1736.78,12.0
+TRX-11159,01-Jan,Sudeste,Cloud & Storage,9,3724.23,16.0
+TRX-11160,11-Nov,Sudeste,Cibersegurança,26,1480.69,12.0
+TRX-11161,02-Fev,Sul,Hardware & Servidores,24,1853.26,22.0
+TRX-11162,05-Mai,Sudeste,Cloud & Storage,24,11627.68,17.0
+TRX-11163,10-Out,Sudeste,Cloud & Storage,9,1169.17,7.0
+TRX-11164,03-Mar,Sul,Hardware & Servidores,23,3324.84,17.0
+TRX-11165,11-Nov,Sudeste,Consultoria Dados,29,6553.08,11.0
+TRX-11166,11-Nov,Norte,Cloud & Storage,9,16218.07,15.0
+TRX-11167,07-Jul,Sul,Hardware & Servidores,10,4294.54,10.0
+TRX-11168,01-Jan,Centro-Oeste,Cloud & Storage,28,4457.05,3.0
+TRX-11169,05-Mai,Sudeste,Licenças SaaS,2,3927.65,14.0
+TRX-11170,09-Set,Centro-Oeste,Cloud & Storage,6,7609.88,7.0
+TRX-11171,12-Dez,Sudeste,Cibersegurança,15,5067.52,16.0
+TRX-11172,09-Set,Sul,Hardware & Servidores,3,2633.83,15.0
+TRX-11173,04-Abr,Sul,Hardware & Servidores,11,7903.67,11.0
+TRX-11174,09-Set,Sul,Cloud & Storage,6,2834.37,23.0
+TRX-11175,08-Ago,Sul,Licenças SaaS,3,1354.22,8.0
+TRX-11176,11-Nov,Centro-Oeste,Licenças SaaS,24,1357.01,11.0
+TRX-11177,02-Fev,Nordeste,Hardware & Servidores,11,3358.69,8.0
+TRX-11178,10-Out,Nordeste,Cibersegurança,15,4092.77,24.0
+TRX-11179,08-Ago,Centro-Oeste,Consultoria Dados,13,7123.53,21.0
+TRX-11180,12-Dez,Sul,Cloud & Storage,20,5805.32,7.0
+TRX-11181,05-Mai,Sudeste,Licenças SaaS,28,4031.54,10.0
+TRX-11182,09-Set,Sudeste,Hardware & Servidores,10,7387.04,10.0
+TRX-11183,12-Dez,Sul,Consultoria Dados,6,3859.45,11.0
+TRX-11184,02-Fev,Sudeste,Licenças SaaS,15,1654.38,9.0
+TRX-11185,12-Dez,Sudeste,Consultoria Dados,25,1435.84,11.0
+TRX-11186,09-Set,Sudeste,Licenças SaaS,18,8788.04,19.0
+TRX-11187,01-Jan,Sudeste,Cloud & Storage,18,889.45,24.0
+TRX-11188,05-Mai,Nordeste,Consultoria Dados,7,3359.4,6.0
+TRX-11189,10-Out,Nordeste,Cloud & Storage,15,26586.68,9.0
+TRX-11190,01-Jan,Sudeste,Cloud & Storage,18,5159.02,15.0
+TRX-11191,08-Ago,Nordeste,Licenças SaaS,18,3342.41,6.0
+TRX-11192,05-Mai,Norte,Licenças SaaS,20,1280.62,15.0
+TRX-11193,09-Set,Sudeste,Consultoria Dados,9,10952.15,17.0
+TRX-11194,01-Jan,Sudeste,Cloud & Storage,24,8425.25,18.0
+TRX-11195,11-Nov,Sudeste,Licenças SaaS,2,5973.68,17.0
+TRX-11196,12-Dez,Norte,Licenças SaaS,8,3826.23,11.0
+TRX-11197,12-Dez,Nordeste,Hardware & Servidores,20,5551.41,13.0
+TRX-11198,10-Out,Sul,Cloud & Storage,2,3475.16,8.0
+TRX-11199,03-Mar,Sudeste,Cloud & Storage,11,2033.23,16.0
+TRX-11200,10-Out,Sudeste,Cloud & Storage,26,7126.8,22.0
+TRX-11201,01-Jan,Sudeste,Consultoria Dados,7,3703.64,16.0
+TRX-11202,01-Jan,Sul,Cibersegurança,6,5373.65,11.0
+TRX-11203,05-Mai,Nordeste,Licenças SaaS,10,3537.83,19.0
+TRX-11204,07-Jul,Centro-Oeste,Consultoria Dados,5,5167.7,26.0
+TRX-11205,11-Nov,Nordeste,Cloud & Storage,11,3791.74,15.0
+TRX-11206,09-Set,Nordeste,Licenças SaaS,1,3604.15,17.0
+TRX-11207,06-Jun,Centro-Oeste,Cloud & Storage,2,3902.97,17.0
+TRX-11208,04-Abr,Sudeste,Licenças SaaS,24,26227.54,6.0
+TRX-11209,12-Dez,Sudeste,Hardware & Servidores,1,6448.25,
+TRX-11210,06-Jun,Sul,Consultoria Dados,19,20556.61,11.0
+TRX-11211,06-Jun,Centro-Oeste,Cloud & Storage,2,3807.52,18.0
+TRX-11212,03-Mar,Sul,Cloud & Storage,21,3131.01,18.0
+TRX-11213,11-Nov,Centro-Oeste,Licenças SaaS,20,1904.11,13.0
+TRX-11214,10-Out,Sul,Cloud & Storage,29,10851.95,11.0
+TRX-11215,04-Abr,Sul,Cibersegurança,23,2125.22,6.0
+TRX-11216,02-Fev,Sul,Cloud & Storage,21,12409.46,
+TRX-11217,09-Set,Sul,Licenças SaaS,24,1977.28,9.0
+TRX-11218,09-Set,Centro-Oeste,Cloud & Storage,4,6811.24,9.0
+TRX-11219,04-Abr,Centro-Oeste,Hardware & Servidores,12,1360.82,19.0
+TRX-11220,12-Dez,Sudeste,Cloud & Storage,22,2871.9,18.0
+TRX-11221,03-Mar,Sul,Cloud & Storage,20,3882.96,12.0
+TRX-11222,06-Jun,Sul,Hardware & Servidores,18,2595.75,6.0
+TRX-11223,12-Dez,Sul,Cloud & Storage,1,3428.7,10.0
+TRX-11224,06-Jun,Sul,Cloud & Storage,1,3439.38,19.0
+TRX-11225,09-Set,Nordeste,Hardware & Servidores,24,6467.25,16.0
+TRX-11226,06-Jun,Sul,Cibersegurança,14,985.96,12.0
+TRX-11227,04-Abr,Sudeste,Licenças SaaS,4,2654.74,14.0
+TRX-11228,12-Dez,Sul,Hardware & Servidores,5,8651.72,4.0
+TRX-11229,06-Jun,Sul,Cibersegurança,11,5517.12,3.0
+TRX-11230,12-Dez,Sudeste,Licenças SaaS,24,8745.86,24.0
+TRX-11231,04-Abr,Sudeste,Cloud & Storage,28,6268.0,17.0
+TRX-11232,04-Abr,Sul,Licenças SaaS,23,1892.62,14.0
+TRX-11233,01-Jan,Sul,Cloud & Storage,13,5881.59,12.0
+TRX-11234,09-Set,Sudeste,Cibersegurança,16,4085.2,5.0
+TRX-11235,06-Jun,Sul,Hardware & Servidores,24,16717.98,19.0
+TRX-11236,11-Nov,Sul,Licenças SaaS,13,6447.24,8.0
+TRX-11237,07-Jul,Norte,Licenças SaaS,24,5378.63,18.0
+TRX-11238,12-Dez,Sudeste,Hardware & Servidores,22,5914.28,15.0
+TRX-11239,03-Mar,Sudeste,Cloud & Storage,26,5191.35,14.0
+TRX-11240,11-Nov,Sudeste,Consultoria Dados,2,5100.89,7.0
+TRX-11241,11-Nov,Sudeste,Cloud & Storage,16,3219.27,8.0
+TRX-11242,11-Nov,Sudeste,Cibersegurança,6,5421.12,16.0
+TRX-11243,11-Nov,Centro-Oeste,Consultoria Dados,14,7090.44,14.0
+TRX-11244,10-Out,Centro-Oeste,Licenças SaaS,1,7625.2,14.0
+TRX-11245,09-Set,Sul,Cibersegurança,17,7047.48,15.0
+TRX-11246,03-Mar,Sudeste,Licenças SaaS,11,10201.0,4.0
+TRX-11247,01-Jan,Sudeste,Licenças SaaS,19,7941.68,19.0
+TRX-11248,12-Dez,Nordeste,Cloud & Storage,3,5759.1,12.0
+TRX-11249,09-Set,Sudeste,Cloud & Storage,11,1820.05,20.0
+TRX-11250,11-Nov,Sudeste,Cloud & Storage,29,1820.52,4.0
+TRX-11251,07-Jul,Sul,Consultoria Dados,5,3257.49,17.0
+TRX-11252,02-Fev,Sudeste,Licenças SaaS,17,3945.73,17.0
+TRX-11253,02-Fev,Sul,Hardware & Servidores,26,9496.71,7.0
+TRX-11254,09-Set,Sudeste,Licenças SaaS,22,628.41,11.0
+TRX-11255,06-Jun,Sul,Cloud & Storage,7,1955.53,9.0
+TRX-11256,04-Abr,Centro-Oeste,Hardware & Servidores,10,3373.67,18.0
+TRX-11257,07-Jul,Sul,Cibersegurança,28,2002.28,16.0
+TRX-11258,01-Jan,Sudeste,Cloud & Storage,29,2278.4,22.0
+TRX-11259,08-Ago,Nordeste,Licenças SaaS,11,2767.07,15.0
+TRX-11260,04-Abr,Sul,Cloud & Storage,3,2069.81,18.0
+TRX-11261,11-Nov,Sudeste,Licenças SaaS,20,2316.76,20.0
+TRX-11262,05-Mai,Sudeste,Cibersegurança,10,9284.5,17.0
+TRX-11263,06-Jun,Sul,Hardware & Servidores,27,5706.19,12.0
+TRX-11264,01-Jan,Nordeste,Consultoria Dados,10,6289.04,11.0
+TRX-11265,02-Fev,Sul,Cibersegurança,14,3743.66,14.0
+TRX-11266,06-Jun,Sudeste,Cloud & Storage,12,7385.09,18.0
+TRX-11267,07-Jul,Sudeste,Cloud & Storage,15,6641.34,10.0
+TRX-11268,08-Ago,Sudeste,Licenças SaaS,10,5647.96,17.0
+TRX-11269,05-Mai,Centro-Oeste,Cloud & Storage,10,2501.87,16.0
+TRX-11270,10-Out,Sudeste,Hardware & Servidores,26,2871.75,8.0
+TRX-11271,11-Nov,Sul,Hardware & Servidores,19,7614.31,17.0
+TRX-11272,11-Nov,Centro-Oeste,Cloud & Storage,1,2735.65,15.0
+TRX-11273,01-Jan,Sudeste,Licenças SaaS,24,1656.5,11.0
+TRX-11274,07-Jul,Nordeste,Cloud & Storage,29,2701.57,15.0
+TRX-11275,02-Fev,Nordeste,Cloud & Storage,26,10547.18,11.0
+TRX-11276,04-Abr,Nordeste,Hardware & Servidores,10,2703.29,15.0
+TRX-11277,12-Dez,Sudeste,Cloud & Storage,2,4736.13,13.0
+TRX-11278,03-Mar,Sudeste,Consultoria Dados,17,2565.23,6.0
+TRX-11279,07-Jul,Nordeste,Cloud & Storage,24,6286.92,13.0
+TRX-11280,09-Set,Sudeste,Consultoria Dados,7,5425.79,12.0
+TRX-11281,10-Out,Sul,Cloud & Storage,7,1452.05,17.0
+TRX-11282,08-Ago,Nordeste,Hardware & Servidores,20,4556.09,18.0
+TRX-11283,01-Jan,Nordeste,Licenças SaaS,27,1282.18,11.0
+TRX-11284,05-Mai,Sudeste,Cloud & Storage,9,2670.06,10.0
+TRX-11285,07-Jul,Sul,Licenças SaaS,22,3799.28,6.0
+TRX-11286,02-Fev,Sudeste,Consultoria Dados,2,12714.05,10.0
+TRX-11287,05-Mai,Nordeste,Hardware & Servidores,14,4706.23,12.0
+TRX-11288,01-Jan,Nordeste,Hardware & Servidores,17,2324.81,7.0
+TRX-11289,02-Fev,Sul,Licenças SaaS,1,3114.47,18.0
+TRX-11290,06-Jun,Sul,Cloud & Storage,9,6979.47,15.0
+TRX-11291,03-Mar,Nordeste,Hardware & Servidores,20,2345.41,13.0
+TRX-11292,08-Ago,Sudeste,Hardware & Servidores,21,7809.03,14.0
+TRX-11293,09-Set,Sudeste,Hardware & Servidores,19,2724.44,16.0
+TRX-11294,11-Nov,Norte,Licenças SaaS,4,2111.26,17.0
+TRX-11295,04-Abr,Sul,Hardware & Servidores,28,2781.78,18.0
+TRX-11296,03-Mar,Sudeste,Cloud & Storage,8,1338.65,12.0
+TRX-11297,02-Fev,Sul,Cibersegurança,13,932.46,13.0
+TRX-11298,09-Set,Sudeste,Cloud & Storage,4,3627.69,15.0
+TRX-11299,10-Out,Nordeste,Hardware & Servidores,9,3663.8,13.0
+TRX-11300,01-Jan,Sudeste,Licenças SaaS,9,4521.96,18.0
+TRX-11301,12-Dez,Norte,Hardware & Servidores,22,3616.07,20.0
+TRX-11302,01-Jan,Sudeste,Licenças SaaS,18,17396.33,16.0
+TRX-11303,08-Ago,Sudeste,Licenças SaaS,12,4270.41,9.0
+TRX-11304,10-Out,Sul,Cloud & Storage,10,1564.46,17.0
+TRX-11305,11-Nov,Sudeste,Cibersegurança,11,1848.36,16.0
+TRX-11306,10-Out,Sudeste,Cloud & Storage,7,3828.38,9.0
+TRX-11307,11-Nov,Sul,Cloud & Storage,9,2884.11,16.0
+TRX-11308,05-Mai,Sudeste,Licenças SaaS,6,1722.42,
+TRX-11309,11-Nov,Sudeste,Licenças SaaS,19,3683.98,18.0
+TRX-11310,02-Fev,Centro-Oeste,Cloud & Storage,16,3719.16,17.0
+TRX-11311,12-Dez,Centro-Oeste,Cibersegurança,15,10798.91,15.0
+TRX-11312,08-Ago,Centro-Oeste,Consultoria Dados,7,2110.21,14.0
+TRX-11313,11-Nov,Sul,Consultoria Dados,16,2917.48,3.0
+TRX-11314,06-Jun,Sul,Cibersegurança,5,10777.34,8.0
+TRX-11315,09-Set,Centro-Oeste,Cloud & Storage,16,4739.0,13.0
+TRX-11316,07-Jul,Sudeste,Cloud & Storage,1,2102.18,22.0
+TRX-11317,10-Out,Sul,Consultoria Dados,19,2405.29,17.0
+TRX-11318,02-Fev,Nordeste,Hardware & Servidores,5,1738.53,23.0
+TRX-11319,01-Jan,Nordeste,Cibersegurança,7,4024.79,14.0
+TRX-11320,04-Abr,Sudeste,Cloud & Storage,19,7481.99,14.0
+TRX-11321,03-Mar,Sul,Cloud & Storage,22,11048.9,21.0
+TRX-11322,11-Nov,Centro-Oeste,Cloud & Storage,5,1456.68,13.0
+TRX-11323,04-Abr,Sudeste,Consultoria Dados,29,6734.01,9.0
+TRX-11324,12-Dez,Nordeste,Hardware & Servidores,17,4259.06,16.0
+TRX-11325,05-Mai,Centro-Oeste,Cibersegurança,26,3228.41,20.0
+TRX-11326,03-Mar,Nordeste,Hardware & Servidores,22,2918.22,10.0
+TRX-11327,11-Nov,Sudeste,Hardware & Servidores,8,1098.16,17.0
+TRX-11328,09-Set,Sul,Cloud & Storage,29,5794.7,14.0
+TRX-11329,07-Jul,Centro-Oeste,Cibersegurança,29,1624.16,16.0
+TRX-11330,08-Ago,Sudeste,Cloud & Storage,1,2353.53,16.0
+TRX-11331,10-Out,Centro-Oeste,Cloud & Storage,2,5022.53,12.0
+TRX-11332,04-Abr,Sul,Hardware & Servidores,15,1175.19,13.0
+TRX-11333,12-Dez,Sul,Cloud & Storage,20,1622.11,12.0
+TRX-11334,12-Dez,Nordeste,Consultoria Dados,28,8451.77,15.0
+TRX-11335,09-Set,Centro-Oeste,Consultoria Dados,18,4143.67,10.0
+TRX-11336,03-Mar,Nordeste,Cloud & Storage,11,2488.83,11.0
+TRX-11337,09-Set,Centro-Oeste,Cibersegurança,25,4154.29,12.0
+TRX-11338,02-Fev,Sudeste,Consultoria Dados,10,5914.48,16.0
+TRX-11339,01-Jan,Centro-Oeste,Hardware & Servidores,24,7951.37,7.0
+TRX-11340,04-Abr,Nordeste,Licenças SaaS,24,1857.37,13.0
+TRX-11341,07-Jul,Sudeste,Consultoria Dados,4,1966.19,10.0
+TRX-11342,11-Nov,Sudeste,Hardware & Servidores,5,5684.07,12.0
+TRX-11343,10-Out,Sul,Hardware & Servidores,4,5803.8,11.0
+TRX-11344,10-Out,Sudeste,Consultoria Dados,13,1597.86,15.0
+TRX-11345,06-Jun,Centro-Oeste,Cibersegurança,25,51200.0,13.0
+TRX-11346,05-Mai,Sudeste,Hardware & Servidores,13,3374.71,18.0
+TRX-11347,06-Jun,Sul,Cloud & Storage,18,3886.73,16.0
+TRX-11348,12-Dez,Sudeste,Cloud & Storage,29,3959.03,6.0
+TRX-11349,01-Jan,Sul,Licenças SaaS,27,1581.99,9.0
+TRX-11350,11-Nov,Sul,Licenças SaaS,24,3933.12,13.0
+TRX-11351,08-Ago,Sudeste,Consultoria Dados,2,2401.16,14.0
+TRX-11352,06-Jun,Nordeste,Cloud & Storage,16,1793.44,10.0
+TRX-11353,10-Out,Sudeste,Cibersegurança,1,3800.37,21.0
+TRX-11354,07-Jul,Sul,Cibersegurança,26,3556.58,18.0
+TRX-11355,11-Nov,Sul,Cloud & Storage,19,6445.26,6.0
+TRX-11356,12-Dez,Centro-Oeste,Hardware & Servidores,9,2187.18,16.0
+TRX-11357,06-Jun,Sudeste,Consultoria Dados,28,4459.81,14.0
+TRX-11358,04-Abr,Nordeste,Licenças SaaS,3,1380.72,20.0
+TRX-11359,08-Ago,Centro-Oeste,Cloud & Storage,25,3201.4,6.0
+TRX-11360,12-Dez,Nordeste,Cibersegurança,7,5173.94,24.0
+TRX-11361,04-Abr,Sudeste,Cloud & Storage,29,5465.52,10.0
+TRX-11362,09-Set,Centro-Oeste,Cibersegurança,10,5489.77,16.0
+TRX-11363,09-Set,Sudeste,Licenças SaaS,1,6456.51,11.0
+TRX-11364,10-Out,Norte,Cibersegurança,10,2864.75,12.0
+TRX-11365,03-Mar,Sudeste,Consultoria Dados,21,5282.85,6.0
+TRX-11366,10-Out,Sudeste,Cibersegurança,9,12896.15,20.0
+TRX-11367,12-Dez,Sudeste,Cloud & Storage,28,2825.28,13.0
+TRX-11368,03-Mar,Sul,Licenças SaaS,15,9387.45,13.0
+TRX-11369,04-Abr,Centro-Oeste,Hardware & Servidores,15,6766.28,26.0
+TRX-11370,12-Dez,Sul,Cloud & Storage,3,3219.21,19.0
+TRX-11371,03-Mar,Sudeste,Cloud & Storage,25,3398.64,11.0
+TRX-11372,11-Nov,Sudeste,Cloud & Storage,5,4133.84,11.0
+TRX-11373,07-Jul,Centro-Oeste,Licenças SaaS,9,6523.11,15.0
+TRX-11374,04-Abr,Nordeste,Cloud & Storage,26,4972.67,18.0
+TRX-11375,11-Nov,Nordeste,Licenças SaaS,22,2810.88,23.0
+TRX-11376,06-Jun,Centro-Oeste,Cibersegurança,9,988.97,6.0
+TRX-11377,07-Jul,Sul,Cloud & Storage,23,5924.86,18.0
+TRX-11378,05-Mai,Sul,Licenças SaaS,7,1089.94,18.0
+TRX-11379,08-Ago,Centro-Oeste,Cloud & Storage,24,1575.16,10.0
+TRX-11380,03-Mar,Sudeste,Cloud & Storage,23,2946.55,12.0
+TRX-11381,06-Jun,Sudeste,Cibersegurança,12,1738.62,6.0
+TRX-11382,12-Dez,Sul,Cloud & Storage,25,4705.06,11.0
+TRX-11383,04-Abr,Sudeste,Hardware & Servidores,27,3157.32,15.0
+TRX-11384,09-Set,Sul,Cibersegurança,9,6376.66,22.0
+TRX-11385,05-Mai,Nordeste,Cibersegurança,6,1346.12,22.0
+TRX-11386,11-Nov,Sul,Cloud & Storage,23,2489.32,9.0
+TRX-11387,03-Mar,Sudeste,Consultoria Dados,2,3838.09,21.0
+TRX-11388,12-Dez,Sul,Cibersegurança,9,3935.42,4.0
+TRX-11389,06-Jun,Centro-Oeste,Licenças SaaS,28,6009.66,11.0
+TRX-11390,04-Abr,Sudeste,Hardware & Servidores,29,2112.27,12.0
+TRX-11391,02-Fev,Nordeste,Cibersegurança,17,2823.67,15.0
+TRX-11392,03-Mar,Nordeste,Licenças SaaS,1,5322.92,15.0
+TRX-11393,07-Jul,Sudeste,Cibersegurança,19,916.84,16.0
+TRX-11394,05-Mai,Nordeste,Licenças SaaS,28,4915.79,13.0
+TRX-11395,11-Nov,Norte,Cloud & Storage,6,6289.06,19.0
+TRX-11396,06-Jun,Nordeste,Hardware & Servidores,5,1608.6,
+TRX-11397,04-Abr,Nordeste,Cloud & Storage,2,3118.9,13.0
+TRX-11398,09-Set,Sul,Cloud & Storage,9,10099.38,18.0
+TRX-11399,10-Out,Sudeste,Licenças SaaS,29,5877.51,24.0
+TRX-11400,03-Mar,Sul,Cloud & Storage,26,5118.07,11.0
+TRX-11401,03-Mar,Sul,Consultoria Dados,14,7289.01,22.0
+TRX-11402,01-Jan,Norte,Consultoria Dados,4,12369.07,11.0
+TRX-11403,10-Out,Sudeste,Cloud & Storage,4,3874.02,21.0
+TRX-11404,09-Set,Centro-Oeste,Cloud & Storage,21,2937.54,11.0
+TRX-11405,07-Jul,Nordeste,Licenças SaaS,15,7277.55,18.0
+TRX-11406,11-Nov,Nordeste,Consultoria Dados,8,3388.54,15.0
+TRX-11407,11-Nov,Norte,Cloud & Storage,26,2093.91,5.0
+TRX-11408,08-Ago,Sul,Cloud & Storage,4,2694.47,24.0
+TRX-11409,11-Nov,Sul,Cibersegurança,16,4689.19,10.0
+TRX-11410,04-Abr,Sudeste,Licenças SaaS,21,2857.67,8.0
+TRX-11411,02-Fev,Sul,Cloud & Storage,28,2999.7,11.0
+TRX-11412,04-Abr,Sul,Licenças SaaS,4,1963.03,27.0
+TRX-11413,01-Jan,Sudeste,Hardware & Servidores,16,9730.19,8.0
+TRX-11414,08-Ago,Nordeste,Hardware & Servidores,22,3063.44,15.0
+TRX-11415,12-Dez,Sudeste,Cloud & Storage,12,2410.33,8.0
+TRX-11416,01-Jan,Sudeste,Cloud & Storage,16,2582.91,9.0
+TRX-11417,02-Fev,Centro-Oeste,Cloud & Storage,19,6448.75,6.0
+TRX-11418,06-Jun,Sul,Cloud & Storage,8,5555.7,16.0
+TRX-11419,12-Dez,Sul,Cloud & Storage,6,2762.23,13.0
+TRX-11420,05-Mai,Centro-Oeste,Hardware & Servidores,10,3908.87,8.0
+TRX-11421,07-Jul,Sudeste,Cloud & Storage,5,4581.85,18.0
+TRX-11422,01-Jan,Centro-Oeste,Consultoria Dados,29,2422.0,19.0
+TRX-11423,03-Mar,Sul,Cloud & Storage,18,1406.13,16.0
+TRX-11424,12-Dez,Nordeste,Cloud & Storage,10,5349.59,20.0
+TRX-11425,12-Dez,Sudeste,Cibersegurança,10,2510.71,12.0
+TRX-11426,01-Jan,Sudeste,Consultoria Dados,7,5096.08,16.0
+TRX-11427,12-Dez,Sudeste,Cloud & Storage,18,4715.77,12.0
+TRX-11428,09-Set,Nordeste,Licenças SaaS,1,3968.98,6.0
+TRX-11429,11-Nov,Sudeste,Licenças SaaS,7,2901.6,15.0
+TRX-11430,06-Jun,Sudeste,Cibersegurança,21,2534.99,15.0
+TRX-11431,07-Jul,Norte,Hardware & Servidores,1,1826.27,14.0
+TRX-11432,07-Jul,Centro-Oeste,Licenças SaaS,15,2566.8,16.0
+TRX-11433,09-Set,Sudeste,Hardware & Servidores,4,5539.89,21.0
+TRX-11434,03-Mar,Centro-Oeste,Cibersegurança,28,9495.63,13.0
+TRX-11435,01-Jan,Sudeste,Licenças SaaS,29,8631.85,9.0
+TRX-11436,05-Mai,Sul,Cloud & Storage,20,4207.08,13.0
+TRX-11437,10-Out,Sudeste,Licenças SaaS,10,9492.35,13.0
+TRX-11438,04-Abr,Norte,Hardware & Servidores,23,3135.58,19.0
+TRX-11439,09-Set,Norte,Licenças SaaS,9,1653.78,15.0
+TRX-11440,12-Dez,Sudeste,Cloud & Storage,2,13340.61,8.0
+TRX-11441,02-Fev,Sudeste,Cloud & Storage,28,5411.74,18.0
+TRX-11442,09-Set,Sul,Hardware & Servidores,14,1411.62,17.0
+TRX-11443,06-Jun,Norte,Consultoria Dados,16,10544.73,15.0
+TRX-11444,11-Nov,Norte,Hardware & Servidores,1,2360.85,19.0
+TRX-11445,03-Mar,Sudeste,Hardware & Servidores,2,2719.43,20.0
+TRX-11446,10-Out,Nordeste,Cloud & Storage,7,7434.59,
+TRX-11447,11-Nov,Centro-Oeste,Cibersegurança,29,9275.29,9.0
+TRX-11448,12-Dez,Sudeste,Cibersegurança,10,1997.24,14.0
+TRX-11449,09-Set,Sul,Hardware & Servidores,22,9958.12,17.0
+TRX-11450,07-Jul,Sudeste,Cloud & Storage,20,35.0,13.0
+TRX-11451,09-Set,Centro-Oeste,Cloud & Storage,1,2275.97,9.0
+TRX-11452,11-Nov,Centro-Oeste,Cloud & Storage,13,3262.21,15.0
+TRX-11453,08-Ago,Sudeste,Cloud & Storage,1,10254.67,4.0
+TRX-11454,01-Jan,Norte,Licenças SaaS,5,1388.02,12.0
+TRX-11455,12-Dez,Sul,Cloud & Storage,16,9390.6,18.0
+TRX-11456,09-Set,Sudeste,Cloud & Storage,15,6635.34,19.0
+TRX-11457,09-Set,Centro-Oeste,Cloud & Storage,17,5329.12,1.0
+TRX-11458,04-Abr,Centro-Oeste,Consultoria Dados,28,4169.71,13.0
+TRX-11459,09-Set,Sudeste,Consultoria Dados,23,13774.71,17.0
+TRX-11460,06-Jun,Sudeste,Licenças SaaS,16,15163.56,8.0
+TRX-11461,09-Set,Sul,Cloud & Storage,13,2565.99,12.0
+TRX-11462,02-Fev,Sudeste,Hardware & Servidores,11,5698.36,20.0
+TRX-11463,09-Set,Sudeste,Cloud & Storage,17,12943.44,12.0
+TRX-11464,12-Dez,Sul,Cloud & Storage,17,2297.83,22.0
+TRX-11465,01-Jan,Centro-Oeste,Cibersegurança,2,4482.97,10.0
+TRX-11466,12-Dez,Sudeste,Licenças SaaS,13,7350.47,21.0
+TRX-11467,06-Jun,Centro-Oeste,Licenças SaaS,14,1033.1,14.0
+TRX-11468,11-Nov,Nordeste,Licenças SaaS,11,6558.79,10.0
+TRX-11469,11-Nov,Sul,Cloud & Storage,28,1886.58,
+TRX-11470,08-Ago,Sul,Licenças SaaS,10,4337.34,8.0
+TRX-11471,10-Out,Nordeste,Cloud & Storage,3,8053.19,10.0
+TRX-11472,11-Nov,Sudeste,Hardware & Servidores,29,810.0,16.0
+TRX-11473,06-Jun,Centro-Oeste,Licenças SaaS,27,6379.27,14.0
+TRX-11474,05-Mai,Nordeste,Hardware & Servidores,17,14399.0,15.0
+TRX-11475,09-Set,Nordeste,Cloud & Storage,15,2706.35,12.0
+TRX-11476,11-Nov,Norte,Cloud & Storage,9,5568.32,8.0
+TRX-11477,10-Out,Sudeste,Licenças SaaS,10,9117.36,11.0
+TRX-11478,11-Nov,Sudeste,Licenças SaaS,8,1359.11,21.0
+TRX-11479,06-Jun,Sudeste,Cloud & Storage,21,6262.22,7.0
+TRX-11480,11-Nov,Sul,Licenças SaaS,13,7446.12,22.0
+TRX-11481,02-Fev,Sudeste,Cloud & Storage,27,5797.04,16.0
+TRX-11482,08-Ago,Sudeste,Cloud & Storage,18,4049.32,11.0
+TRX-11483,01-Jan,Norte,Licenças SaaS,5,1997.66,4.0
+TRX-11484,05-Mai,Sudeste,Licenças SaaS,6,9456.19,5.0
+TRX-11485,06-Jun,Sudeste,Consultoria Dados,17,3914.44,12.0
+TRX-11486,06-Jun,Sudeste,Cloud & Storage,11,2127.02,12.0
+TRX-11487,10-Out,Sul,Licenças SaaS,20,3112.82,15.0
+TRX-11488,06-Jun,Sul,Cibersegurança,16,4863.19,23.0
+TRX-11489,06-Jun,Sudeste,Consultoria Dados,9,1387.46,17.0
+TRX-11490,04-Abr,Sul,Hardware & Servidores,2,3872.5,13.0
+TRX-11491,06-Jun,Sudeste,Licenças SaaS,5,2919.1,20.0
+TRX-11492,04-Abr,Nordeste,Cibersegurança,1,9121.75,15.0
+TRX-11493,02-Fev,Nordeste,Cloud & Storage,4,1131.52,22.0
+TRX-11494,08-Ago,Centro-Oeste,Cloud & Storage,4,7045.84,11.0
+TRX-11495,09-Set,Sul,Cloud & Storage,22,9615.31,8.0
+TRX-11496,09-Set,Nordeste,Cibersegurança,26,1159.67,4.0
+TRX-11497,07-Jul,Nordeste,Licenças SaaS,25,1253.67,13.0
+TRX-11498,06-Jun,Sul,Cibersegurança,3,12220.07,8.0
+TRX-11499,11-Nov,Centro-Oeste,Cibersegurança,9,2126.34,8.0
+TRX-11500,07-Jul,Sudeste,Cibersegurança,22,28613.64,19.0
+TRX-11501,07-Jul,Nordeste,Hardware & Servidores,23,1183.47,5.0
+TRX-11502,01-Jan,Norte,Cloud & Storage,12,4274.96,15.0
+TRX-11503,05-Mai,Sul,Cloud & Storage,10,3769.86,14.0
+TRX-11504,06-Jun,Nordeste,Cloud & Storage,2,3343.16,14.0
+TRX-11505,06-Jun,Sudeste,Hardware & Servidores,11,5171.54,21.0
+TRX-11506,08-Ago,Norte,Cibersegurança,10,5369.12,10.0
+TRX-11507,08-Ago,Sudeste,Cloud & Storage,22,3432.42,21.0
+TRX-11508,08-Ago,Nordeste,Cloud & Storage,6,1979.87,5.0
+TRX-11509,10-Out,Sul,Cloud & Storage,18,7563.16,17.0
+TRX-11510,11-Nov,Sudeste,Hardware & Servidores,2,5757.36,21.0
+TRX-11511,10-Out,Sul,Consultoria Dados,2,4123.59,1.0
+TRX-11512,12-Dez,Norte,Licenças SaaS,10,5640.0,14.0
+TRX-11513,01-Jan,Nordeste,Licenças SaaS,16,6309.5,13.0
+TRX-11514,03-Mar,Nordeste,Hardware & Servidores,12,2332.92,14.0
+TRX-11515,01-Jan,Norte,Licenças SaaS,1,5510.67,23.0
+TRX-11516,09-Set,Sul,Licenças SaaS,21,2671.85,10.0
+TRX-11517,12-Dez,Sudeste,Licenças SaaS,8,6446.69,8.0
+TRX-11518,04-Abr,Sul,Hardware & Servidores,16,3377.67,14.0
+TRX-11519,12-Dez,Sul,Cibersegurança,18,5696.56,20.0
+TRX-11520,01-Jan,Sul,Licenças SaaS,13,2887.17,17.0
+TRX-11521,12-Dez,Sudeste,Cibersegurança,15,5892.33,14.0
+TRX-11522,05-Mai,Sudeste,Cibersegurança,21,2025.96,13.0
+TRX-11523,02-Fev,Sul,Cloud & Storage,12,3918.68,4.0
+TRX-11524,07-Jul,Sul,Cibersegurança,8,7240.25,17.0
+TRX-11525,04-Abr,Sul,Hardware & Servidores,10,5185.82,18.0
+TRX-11526,05-Mai,Norte,Cibersegurança,14,4336.48,11.0
+TRX-11527,05-Mai,Centro-Oeste,Hardware & Servidores,5,12361.16,12.0
+TRX-11528,11-Nov,Norte,Cloud & Storage,18,7445.49,9.0
+TRX-11529,08-Ago,Sudeste,Cloud & Storage,19,6674.84,
+TRX-11530,05-Mai,Sudeste,Cibersegurança,15,5870.63,12.0
+TRX-11531,09-Set,Nordeste,Hardware & Servidores,6,6366.17,13.0
+TRX-11532,10-Out,Sudeste,Licenças SaaS,27,11238.68,17.0
+TRX-11533,04-Abr,Sudeste,Licenças SaaS,11,2917.6,16.0
+TRX-11534,06-Jun,Sul,Hardware & Servidores,21,7376.93,17.0
+TRX-11535,02-Fev,Sul,Hardware & Servidores,11,4825.73,15.0
+TRX-11536,03-Mar,Sudeste,Hardware & Servidores,20,2983.86,15.0
+TRX-11537,09-Set,Sudeste,Licenças SaaS,20,3587.38,15.0
+TRX-11538,03-Mar,Centro-Oeste,Cibersegurança,21,4413.62,16.0
+TRX-11539,07-Jul,Sul,Cloud & Storage,18,2188.65,17.0
+TRX-11540,10-Out,Sul,Hardware & Servidores,25,6711.71,8.0
+TRX-11541,02-Fev,Nordeste,Cibersegurança,18,3580.1,11.0
+TRX-11542,08-Ago,Sul,Licenças SaaS,10,4044.87,13.0
+TRX-11543,04-Abr,Sudeste,Licenças SaaS,2,9248.18,16.0
+TRX-11544,12-Dez,Nordeste,Cibersegurança,26,4164.44,22.0
+TRX-11545,07-Jul,Sul,Hardware & Servidores,9,10501.09,10.0
+TRX-11546,11-Nov,Sul,Hardware & Servidores,14,2721.32,18.0
+TRX-11547,08-Ago,Sudeste,Hardware & Servidores,19,1876.01,11.0
+TRX-11548,01-Jan,Sudeste,Cloud & Storage,10,3170.06,21.0
+TRX-11549,09-Set,Sudeste,Hardware & Servidores,23,614.27,24.0
+TRX-11550,12-Dez,Nordeste,Cloud & Storage,4,6896.33,5.0
+TRX-11551,08-Ago,Sul,Cloud & Storage,29,1948.31,12.0
+TRX-11552,11-Nov,Sudeste,Consultoria Dados,29,2561.88,2.0
+TRX-11553,12-Dez,Sudeste,Cibersegurança,6,6097.18,6.0
+TRX-11554,04-Abr,Sul,Licenças SaaS,14,4135.77,6.0
+TRX-11555,04-Abr,Sudeste,Licenças SaaS,4,2874.53,17.0
+TRX-11556,09-Set,Sudeste,Hardware & Servidores,26,1018.66,16.0
+TRX-11557,06-Jun,Sudeste,Licenças SaaS,15,8915.31,18.0
+TRX-11558,11-Nov,Sul,Cloud & Storage,16,6124.19,17.0
+TRX-11559,12-Dez,Sudeste,Cibersegurança,7,14562.7,16.0
+TRX-11560,05-Mai,Sudeste,Cloud & Storage,17,2597.63,15.0
+TRX-11561,04-Abr,Nordeste,Consultoria Dados,19,1487.14,13.0
+TRX-11562,11-Nov,Sul,Cloud & Storage,29,7307.02,19.0
+TRX-11563,04-Abr,Sudeste,Cloud & Storage,19,3387.21,14.0
+TRX-11564,11-Nov,Sudeste,Consultoria Dados,17,5757.8,17.0
+TRX-11565,06-Jun,Centro-Oeste,Hardware & Servidores,6,10970.28,2.0
+TRX-11566,09-Set,Sudeste,Licenças SaaS,29,4926.08,8.0
+TRX-11567,02-Fev,Centro-Oeste,Licenças SaaS,11,4267.33,19.0
+TRX-11568,09-Set,Nordeste,Licenças SaaS,16,4444.85,11.0
+TRX-11569,06-Jun,Nordeste,Consultoria Dados,25,1320.53,7.0
+TRX-11570,08-Ago,Sudeste,Consultoria Dados,8,7865.37,17.0
+TRX-11571,03-Mar,Sudeste,Hardware & Servidores,11,8199.73,14.0
+TRX-11572,10-Out,Nordeste,Licenças SaaS,7,5403.87,12.0
+TRX-11573,11-Nov,Norte,Cibersegurança,26,1429.37,22.0
+TRX-11574,04-Abr,Nordeste,Cibersegurança,24,3537.77,21.0
+TRX-11575,02-Fev,Sudeste,Hardware & Servidores,22,9750.19,13.0
+TRX-11576,01-Jan,Sul,Licenças SaaS,25,2649.85,18.0
+TRX-11577,09-Set,Sudeste,Consultoria Dados,19,8264.83,3.0
+TRX-11578,08-Ago,Centro-Oeste,Consultoria Dados,26,3967.19,19.0
+TRX-11579,08-Ago,Sudeste,Cloud & Storage,10,6082.23,9.0
+TRX-11580,04-Abr,Sudeste,Hardware & Servidores,9,72500.0,7.0
+TRX-11581,06-Jun,Nordeste,Cloud & Storage,4,4043.43,5.0
+TRX-11582,08-Ago,Sudeste,Licenças SaaS,23,5084.06,5.0
+TRX-11583,07-Jul,Nordeste,Licenças SaaS,15,1892.96,19.0
+TRX-11584,12-Dez,Sudeste,Cloud & Storage,13,4573.54,17.0
+TRX-11585,03-Mar,Sudeste,Hardware & Servidores,25,666.78,10.0
+TRX-11586,10-Out,Sudeste,Cloud & Storage,2,2588.99,
+TRX-11587,06-Jun,Centro-Oeste,Cloud & Storage,2,5450.83,11.0
+TRX-11588,06-Jun,Sul,Consultoria Dados,16,7928.12,16.0
+TRX-11589,10-Out,Sul,Cibersegurança,9,5204.55,12.0
+TRX-11590,10-Out,Norte,Cloud & Storage,28,1550.44,13.0
+TRX-11591,12-Dez,Sul,Cibersegurança,13,7490.25,9.0
+TRX-11592,02-Fev,Sudeste,Hardware & Servidores,3,1825.4,10.0
+TRX-11593,02-Fev,Sudeste,Consultoria Dados,9,5705.75,17.0
+TRX-11594,10-Out,Sudeste,Cloud & Storage,13,1865.36,18.0
+TRX-11595,08-Ago,Sudeste,Cloud & Storage,21,2315.58,12.0
+TRX-11596,04-Abr,Sul,Cloud & Storage,22,2055.7,6.0
+TRX-11597,02-Fev,Sudeste,Licenças SaaS,2,4189.44,26.0
+TRX-11598,02-Fev,Sudeste,Licenças SaaS,8,3370.79,14.0
+TRX-11599,12-Dez,Centro-Oeste,Licenças SaaS,27,5328.32,16.0
+TRX-11600,03-Mar,Sul,Cloud & Storage,9,3781.54,8.0
+TRX-11601,05-Mai,Sudeste,Cloud & Storage,16,1427.08,20.0
+TRX-11602,04-Abr,Sul,Hardware & Servidores,2,4579.19,21.0
+TRX-11603,05-Mai,Sudeste,Licenças SaaS,6,1217.55,5.0
+TRX-11604,01-Jan,Sul,Hardware & Servidores,22,2154.89,13.0
+TRX-11605,07-Jul,Sul,Cibersegurança,8,3021.34,13.0
+TRX-11606,01-Jan,Nordeste,Licenças SaaS,26,2888.28,26.0
+TRX-11607,11-Nov,Sudeste,Licenças SaaS,28,1311.83,21.0
+TRX-11608,04-Abr,Norte,Cloud & Storage,5,9332.46,7.0
+TRX-11609,08-Ago,Norte,Cloud & Storage,9,11172.4,10.0
+TRX-11610,12-Dez,Sudeste,Hardware & Servidores,1,16531.18,10.0
+TRX-11611,09-Set,Sul,Licenças SaaS,9,8070.52,16.0
+TRX-11612,08-Ago,Sudeste,Licenças SaaS,10,2960.04,22.0
+TRX-11613,05-Mai,Nordeste,Cloud & Storage,23,2927.07,15.0
+TRX-11614,05-Mai,Sudeste,Cloud & Storage,4,2823.89,17.0
+TRX-11615,09-Set,Sul,Licenças SaaS,3,13914.19,11.0
+TRX-11616,12-Dez,Sudeste,Licenças SaaS,10,3550.69,16.0
+TRX-11617,09-Set,Nordeste,Cloud & Storage,15,8734.2,12.0
+TRX-11618,08-Ago,Nordeste,Cibersegurança,11,8303.5,6.0
+TRX-11619,10-Out,Sul,Hardware & Servidores,14,4329.49,16.0
+TRX-11620,07-Jul,Centro-Oeste,Hardware & Servidores,6,1489.85,14.0
+TRX-11621,01-Jan,Sul,Consultoria Dados,12,3600.95,9.0
+TRX-11622,08-Ago,Sul,Licenças SaaS,13,4211.31,22.0
+TRX-11623,12-Dez,Nordeste,Licenças SaaS,17,8783.66,10.0
+TRX-11624,03-Mar,Sul,Hardware & Servidores,16,3876.34,17.0
+TRX-11625,10-Out,Sudeste,Licenças SaaS,3,1744.82,12.0
+TRX-11626,04-Abr,Sul,Cloud & Storage,2,7274.58,22.0
+TRX-11627,08-Ago,Nordeste,Cloud & Storage,11,3301.39,13.0
+TRX-11628,02-Fev,Nordeste,Cibersegurança,29,731.86,6.0
+TRX-11629,06-Jun,Sudeste,Hardware & Servidores,9,4727.92,18.0
+TRX-11630,10-Out,Centro-Oeste,Licenças SaaS,3,5300.21,22.0
+TRX-11631,05-Mai,Sul,Cibersegurança,29,2212.97,12.0
+TRX-11632,09-Set,Sudeste,Hardware & Servidores,18,3378.44,17.0
+TRX-11633,11-Nov,Sudeste,Hardware & Servidores,20,5869.45,15.0
+TRX-11634,12-Dez,Sul,Hardware & Servidores,15,4748.86,12.0
+TRX-11635,04-Abr,Sudeste,Hardware & Servidores,14,1386.13,18.0
+TRX-11636,06-Jun,Norte,Cibersegurança,2,8645.62,10.0
+TRX-11637,03-Mar,Sul,Licenças SaaS,17,11604.11,14.0
+TRX-11638,12-Dez,Sudeste,Hardware & Servidores,22,2747.32,15.0
+TRX-11639,12-Dez,Sul,Hardware & Servidores,26,1106.09,15.0
+TRX-11640,08-Ago,Sul,Cibersegurança,8,6318.41,10.0
+TRX-11641,11-Nov,Nordeste,Licenças SaaS,10,2471.28,24.0
+TRX-11642,07-Jul,Sudeste,Cloud & Storage,26,5421.03,20.0
+TRX-11643,09-Set,Sudeste,Cloud & Storage,18,16017.08,19.0
+TRX-11644,02-Fev,Centro-Oeste,Cibersegurança,25,1400.94,21.0
+TRX-11645,10-Out,Sul,Cloud & Storage,29,2280.61,14.0
+TRX-11646,02-Fev,Sudeste,Hardware & Servidores,19,3373.1,12.0
+TRX-11647,11-Nov,Sudeste,Licenças SaaS,8,8862.56,9.0
+TRX-11648,11-Nov,Sudeste,Cibersegurança,28,38605.54,10.0
+TRX-11649,10-Out,Norte,Cibersegurança,8,4494.48,9.0
+TRX-11650,01-Jan,Centro-Oeste,Licenças SaaS,3,1324.85,11.0
+TRX-11651,05-Mai,Sudeste,Licenças SaaS,3,3057.68,15.0
+TRX-11652,04-Abr,Nordeste,Cloud & Storage,12,2313.09,19.0
+TRX-11653,06-Jun,Sul,Cloud & Storage,22,6118.24,18.0
+TRX-11654,02-Fev,Sul,Hardware & Servidores,17,4890.13,8.0
+TRX-11655,12-Dez,Sul,Hardware & Servidores,4,1944.62,
+TRX-11656,08-Ago,Sudeste,Licenças SaaS,17,2226.61,20.0
+TRX-11657,05-Mai,Sudeste,Licenças SaaS,14,3028.92,13.0
+TRX-11658,06-Jun,Sudeste,Consultoria Dados,19,3276.13,20.0
+TRX-11659,06-Jun,Nordeste,Cibersegurança,9,3724.09,18.0
+TRX-11660,08-Ago,Sudeste,Hardware & Servidores,21,3951.17,8.0
+TRX-11661,07-Jul,Sudeste,Hardware & Servidores,12,8541.17,25.0
+TRX-11662,12-Dez,Sul,Licenças SaaS,5,2958.57,10.0
+TRX-11663,07-Jul,Sul,Cibersegurança,11,2688.35,
+TRX-11664,12-Dez,Sudeste,Cibersegurança,20,1603.26,19.0
+TRX-11665,11-Nov,Sudeste,Licenças SaaS,3,3309.3,8.0
+TRX-11666,04-Abr,Nordeste,Licenças SaaS,21,4521.18,15.0
+TRX-11667,12-Dez,Sul,Licenças SaaS,15,1248.05,19.0
+TRX-11668,02-Fev,Sul,Hardware & Servidores,14,3063.83,8.0
+TRX-11669,11-Nov,Sudeste,Licenças SaaS,11,8137.12,14.0
+TRX-11670,06-Jun,Sul,Licenças SaaS,20,5833.65,19.0
+TRX-11671,11-Nov,Sul,Cloud & Storage,8,4879.18,19.0
+TRX-11672,11-Nov,Centro-Oeste,Cibersegurança,4,5731.82,12.0
+TRX-11673,11-Nov,Sul,Cloud & Storage,27,2636.2,22.0
+TRX-11674,11-Nov,Sudeste,Consultoria Dados,12,2417.53,21.0
+TRX-11675,05-Mai,Sudeste,Hardware & Servidores,8,8749.4,15.0
+TRX-11676,02-Fev,Sul,Cibersegurança,6,6559.15,11.0
+TRX-11677,06-Jun,Sudeste,Hardware & Servidores,15,2356.48,8.0
+TRX-11678,03-Mar,Nordeste,Licenças SaaS,12,1128.71,16.0
+TRX-11679,10-Out,Sudeste,Hardware & Servidores,16,2388.49,21.0
+TRX-11680,05-Mai,Centro-Oeste,Cloud & Storage,16,5449.6,13.0
+TRX-11681,12-Dez,Sul,Cloud & Storage,27,2495.22,10.0
+TRX-11682,09-Set,Nordeste,Consultoria Dados,21,4743.56,18.0
+TRX-11683,11-Nov,Sul,Cloud & Storage,20,9632.05,15.0
+TRX-11684,03-Mar,Centro-Oeste,Hardware & Servidores,20,3603.04,17.0
+TRX-11685,11-Nov,Sudeste,Licenças SaaS,28,4456.3,11.0
+TRX-11686,12-Dez,Norte,Cibersegurança,4,5974.09,12.0
+TRX-11687,07-Jul,Sudeste,Consultoria Dados,11,1894.38,11.0
+TRX-11688,08-Ago,Sul,Hardware & Servidores,13,2315.82,16.0
+TRX-11689,10-Out,Sul,Cibersegurança,29,6136.47,12.0
+TRX-11690,03-Mar,Nordeste,Cloud & Storage,9,3920.71,17.0
+TRX-11691,07-Jul,Sudeste,Hardware & Servidores,4,4142.87,11.0
+TRX-11692,06-Jun,Nordeste,Licenças SaaS,12,3911.34,16.0
+TRX-11693,03-Mar,Sul,Cibersegurança,9,7229.25,18.0
+TRX-11694,06-Jun,Sudeste,Licenças SaaS,13,5080.75,16.0
+TRX-11695,01-Jan,Sul,Cloud & Storage,16,5124.22,19.0
+TRX-11696,01-Jan,Norte,Cloud & Storage,26,8471.21,12.0
+TRX-11697,03-Mar,Centro-Oeste,Cloud & Storage,6,10875.56,17.0
+TRX-11698,12-Dez,Norte,Consultoria Dados,10,16454.18,15.0
+TRX-11699,08-Ago,Sudeste,Cloud & Storage,13,2627.11,10.0
+TRX-11700,12-Dez,Sudeste,Cloud & Storage,7,19055.57,4.0
+TRX-11701,06-Jun,Centro-Oeste,Cloud & Storage,28,1876.38,6.0
+TRX-11702,05-Mai,Sudeste,Cibersegurança,26,13465.83,3.0
+TRX-11703,07-Jul,Nordeste,Cloud & Storage,19,2534.94,16.0
+TRX-11704,06-Jun,Norte,Consultoria Dados,24,3659.89,12.0
+TRX-11705,02-Fev,Nordeste,Cloud & Storage,19,3874.12,14.0
+TRX-11706,09-Set,Centro-Oeste,Licenças SaaS,17,2178.67,13.0
+TRX-11707,04-Abr,Sudeste,Hardware & Servidores,13,4049.57,17.0
+TRX-11708,09-Set,Sudeste,Licenças SaaS,13,2253.03,17.0
+TRX-11709,09-Set,Norte,Consultoria Dados,26,1715.2,14.0
+TRX-11710,03-Mar,Sul,Hardware & Servidores,28,3732.49,15.0
+TRX-11711,01-Jan,Centro-Oeste,Consultoria Dados,21,10758.16,15.0
+TRX-11712,11-Nov,Centro-Oeste,Cloud & Storage,2,3245.05,21.0
+TRX-11713,06-Jun,Sudeste,Consultoria Dados,10,7056.21,4.0
+TRX-11714,01-Jan,Norte,Licenças SaaS,22,2209.05,11.0
+TRX-11715,12-Dez,Sudeste,Cloud & Storage,13,1661.94,18.0
+TRX-11716,01-Jan,Sudeste,Hardware & Servidores,26,5141.03,20.0
+TRX-11717,10-Out,Sul,Cloud & Storage,9,11981.85,16.0
+TRX-11718,12-Dez,Sudeste,Hardware & Servidores,1,4384.45,13.0
+TRX-11719,04-Abr,Sudeste,Hardware & Servidores,14,6550.66,23.0
+TRX-11720,03-Mar,Sudeste,Hardware & Servidores,29,10115.57,15.0
+TRX-11721,02-Fev,Nordeste,Cloud & Storage,16,3737.81,14.0
+TRX-11722,05-Mai,Norte,Licenças SaaS,20,3467.39,21.0
+TRX-11723,02-Fev,Sul,Hardware & Servidores,15,5202.31,16.0
+TRX-11724,10-Out,Sudeste,Hardware & Servidores,1,5840.15,19.0
+TRX-11725,01-Jan,Norte,Cibersegurança,17,1541.74,19.0
+TRX-11726,07-Jul,Sul,Hardware & Servidores,24,4638.85,12.0
+TRX-11727,12-Dez,Sul,Hardware & Servidores,13,3825.93,23.0
+TRX-11728,11-Nov,Sul,Hardware & Servidores,27,2291.16,2.0
+TRX-11729,09-Set,Sudeste,Consultoria Dados,15,3657.82,4.0
+TRX-11730,05-Mai,Sul,Licenças SaaS,16,1794.6,11.0
+TRX-11731,09-Set,Norte,Cloud & Storage,16,1433.53,12.0
+TRX-11732,07-Jul,Sudeste,Licenças SaaS,2,3997.61,16.0
+TRX-11733,06-Jun,Sudeste,Cibersegurança,17,6879.84,11.0
+TRX-11734,03-Mar,Sul,Licenças SaaS,11,3054.16,14.0
+TRX-11735,12-Dez,Sudeste,Licenças SaaS,8,2049.86,13.0
+TRX-11736,06-Jun,Centro-Oeste,Cibersegurança,20,2267.78,24.0
+TRX-11737,03-Mar,Centro-Oeste,Cloud & Storage,3,5468.8,10.0
+TRX-11738,06-Jun,Centro-Oeste,Hardware & Servidores,29,11314.05,6.0
+TRX-11739,06-Jun,Sudeste,Cloud & Storage,12,6315.72,20.0
+TRX-11740,11-Nov,Nordeste,Licenças SaaS,20,8915.22,10.0
+TRX-11741,10-Out,Nordeste,Cibersegurança,16,1937.29,14.0
+TRX-11742,10-Out,Centro-Oeste,Licenças SaaS,14,3648.04,11.0
+TRX-11743,01-Jan,Sul,Consultoria Dados,16,7421.59,18.0
+TRX-11744,06-Jun,Sul,Hardware & Servidores,27,1541.54,7.0
+TRX-11745,07-Jul,Sul,Licenças SaaS,21,2495.03,1.0
+TRX-11746,01-Jan,Centro-Oeste,Licenças SaaS,17,7060.79,20.0
+TRX-11747,04-Abr,Sudeste,Consultoria Dados,11,4527.73,15.0
+TRX-11748,10-Out,Sudeste,Consultoria Dados,17,2044.03,19.0
+TRX-11749,03-Mar,Nordeste,Licenças SaaS,19,1326.06,20.0
+TRX-11750,08-Ago,Nordeste,Cloud & Storage,22,9129.4,9.0
+TRX-11751,04-Abr,Nordeste,Licenças SaaS,1,1007.57,14.0
+TRX-11752,01-Jan,Sudeste,Hardware & Servidores,27,5773.63,
+TRX-11753,04-Abr,Centro-Oeste,Licenças SaaS,12,2706.8,13.0
+TRX-11754,12-Dez,Sudeste,Consultoria Dados,15,7559.76,12.0
+TRX-11755,11-Nov,Sul,Cloud & Storage,18,1944.2,13.0
+TRX-11756,12-Dez,Sul,Cibersegurança,28,20944.25,19.0
+TRX-11757,07-Jul,Sudeste,Cloud & Storage,23,4971.59,13.0
+TRX-11758,02-Fev,Sudeste,Cloud & Storage,14,5533.61,17.0
+TRX-11759,08-Ago,Nordeste,Cloud & Storage,1,2315.82,16.0
+TRX-11760,06-Jun,Sul,Licenças SaaS,13,3509.76,9.0
+TRX-11761,11-Nov,Centro-Oeste,Consultoria Dados,15,3569.42,16.0
+TRX-11762,02-Fev,Sudeste,Consultoria Dados,7,12301.11,6.0
+TRX-11763,07-Jul,Sudeste,Hardware & Servidores,15,4966.02,16.0
+TRX-11764,03-Mar,Sudeste,Licenças SaaS,20,5450.65,18.0
+TRX-11765,05-Mai,Sudeste,Licenças SaaS,10,5411.18,20.0
+TRX-11766,10-Out,Sudeste,Cloud & Storage,14,5759.45,9.0
+TRX-11767,07-Jul,Sudeste,Hardware & Servidores,6,1551.31,11.0
+TRX-11768,06-Jun,Sul,Cloud & Storage,14,14501.75,15.0
+TRX-11769,06-Jun,Sul,Consultoria Dados,24,2163.82,12.0
+TRX-11770,06-Jun,Sudeste,Cibersegurança,25,3733.26,4.0
+TRX-11771,11-Nov,Nordeste,Licenças SaaS,22,10357.48,11.0
+TRX-11772,12-Dez,Sudeste,Cloud & Storage,12,13460.39,15.0
+TRX-11773,12-Dez,Centro-Oeste,Licenças SaaS,11,6463.14,19.0
+TRX-11774,11-Nov,Centro-Oeste,Hardware & Servidores,29,2757.14,22.0
+TRX-11775,05-Mai,Norte,Cloud & Storage,25,4158.99,15.0
+TRX-11776,09-Set,Nordeste,Cibersegurança,20,4266.41,17.0
+TRX-11777,06-Jun,Sudeste,Hardware & Servidores,22,4365.79,19.0
+TRX-11778,04-Abr,Centro-Oeste,Licenças SaaS,24,1720.66,4.0
+TRX-11779,11-Nov,Nordeste,Cloud & Storage,25,8682.56,9.0
+TRX-11780,01-Jan,Sudeste,Licenças SaaS,19,4177.56,15.0
+TRX-11781,12-Dez,Sudeste,Cloud & Storage,2,2393.61,22.0
+TRX-11782,07-Jul,Sul,Cibersegurança,22,2768.45,17.0
+TRX-11783,09-Set,Nordeste,Hardware & Servidores,20,4561.48,16.0
+TRX-11784,09-Set,Nordeste,Hardware & Servidores,1,1537.8,13.0
+TRX-11785,12-Dez,Sul,Consultoria Dados,8,6774.92,16.0
+TRX-11786,09-Set,Sudeste,Cloud & Storage,25,4458.53,11.0
+TRX-11787,09-Set,Sudeste,Licenças SaaS,14,10590.35,10.0
+TRX-11788,01-Jan,Sul,Consultoria Dados,9,4025.6,11.0
+TRX-11789,07-Jul,Norte,Cloud & Storage,2,1890.46,21.0
+TRX-11790,03-Mar,Sul,Cloud & Storage,25,54800.0,10.0
+TRX-11791,10-Out,Sul,Licenças SaaS,23,2969.18,12.0
+TRX-11792,07-Jul,Sudeste,Consultoria Dados,5,3180.56,16.0
+TRX-11793,09-Set,Centro-Oeste,Consultoria Dados,23,2647.26,10.0
+TRX-11794,01-Jan,Sul,Cibersegurança,29,4161.01,15.0
+TRX-11795,02-Fev,Centro-Oeste,Licenças SaaS,25,2603.94,15.0
+TRX-11796,10-Out,Sudeste,Hardware & Servidores,8,4515.33,11.0
+TRX-11797,02-Fev,Sul,Consultoria Dados,16,2728.69,13.0
+TRX-11798,02-Fev,Sul,Consultoria Dados,22,5771.04,9.0
+TRX-11799,01-Jan,Sudeste,Hardware & Servidores,16,3128.9,21.0
+TRX-11800,12-Dez,Sudeste,Cloud & Storage,13,8604.45,15.0
+TRX-11801,10-Out,Norte,Hardware & Servidores,20,5848.8,9.0
+TRX-11802,05-Mai,Nordeste,Cloud & Storage,29,4340.87,15.0
+TRX-11803,05-Mai,Norte,Licenças SaaS,15,3344.29,15.0
+TRX-11804,05-Mai,Sudeste,Cloud & Storage,1,1426.02,3.0
+TRX-11805,11-Nov,Norte,Hardware & Servidores,22,9593.17,21.0
+TRX-11806,09-Set,Sudeste,Cloud & Storage,3,2458.96,9.0
+TRX-11807,03-Mar,Sudeste,Consultoria Dados,6,4060.15,24.0
+TRX-11808,03-Mar,Sul,Cibersegurança,22,4786.11,18.0
+TRX-11809,02-Fev,Sul,Cloud & Storage,14,3397.24,8.0
+TRX-11810,09-Set,Centro-Oeste,Hardware & Servidores,4,9232.55,12.0
+TRX-11811,10-Out,Sudeste,Consultoria Dados,18,1730.4,19.0
+TRX-11812,04-Abr,Sul,Licenças SaaS,15,11814.2,13.0
+TRX-11813,01-Jan,Sudeste,Cloud & Storage,9,5922.49,20.0
+TRX-11814,02-Fev,Sudeste,Hardware & Servidores,18,3261.12,12.0
+TRX-11815,12-Dez,Sudeste,Hardware & Servidores,3,3284.93,14.0
+TRX-11816,05-Mai,Sudeste,Hardware & Servidores,10,906.02,19.0
+TRX-11817,10-Out,Nordeste,Cibersegurança,17,2205.37,17.0
+TRX-11818,09-Set,Nordeste,Consultoria Dados,7,3041.06,9.0
+TRX-11819,06-Jun,Sudeste,Cloud & Storage,15,4291.83,16.0
+TRX-11820,04-Abr,Sudeste,Licenças SaaS,1,8679.57,15.0
+TRX-11821,02-Fev,Sudeste,Cloud & Storage,27,14391.67,9.0
+TRX-11822,09-Set,Nordeste,Licenças SaaS,25,4568.65,7.0
+TRX-11823,11-Nov,Sudeste,Licenças SaaS,27,4374.93,4.0
+TRX-11824,09-Set,Sul,Hardware & Servidores,11,2782.96,13.0
+TRX-11825,08-Ago,Sul,Cloud & Storage,17,1255.37,14.0
+TRX-11826,01-Jan,Sudeste,Cibersegurança,5,2581.79,17.0
+TRX-11827,12-Dez,Sudeste,Hardware & Servidores,7,3349.02,18.0
+TRX-11828,11-Nov,Nordeste,Cloud & Storage,19,7215.64,12.0
+TRX-11829,05-Mai,Sul,Cibersegurança,25,5365.18,14.0
+TRX-11830,12-Dez,Sudeste,Consultoria Dados,24,4420.48,10.0
+TRX-11831,08-Ago,Nordeste,Cloud & Storage,29,2624.07,14.0
+TRX-11832,08-Ago,Nordeste,Licenças SaaS,15,1055.35,19.0
+TRX-11833,10-Out,Sudeste,Cloud & Storage,3,1097.58,15.0
+TRX-11834,11-Nov,Sudeste,Licenças SaaS,15,1297.99,20.0
+TRX-11835,09-Set,Sudeste,Cibersegurança,5,3165.91,19.0
+TRX-11836,02-Fev,Norte,Licenças SaaS,23,7303.65,21.0
+TRX-11837,05-Mai,Sul,Cloud & Storage,12,7176.68,15.0
+TRX-11838,12-Dez,Norte,Cibersegurança,20,6411.93,11.0
+TRX-11839,04-Abr,Centro-Oeste,Cibersegurança,5,2738.56,17.0
+TRX-11840,06-Jun,Sudeste,Cloud & Storage,3,8052.77,12.0
+TRX-11841,06-Jun,Sul,Hardware & Servidores,9,2089.76,17.0
+TRX-11842,06-Jun,Sudeste,Hardware & Servidores,26,6665.54,11.0
+TRX-11843,09-Set,Sudeste,Hardware & Servidores,9,1288.88,10.0
+TRX-11844,12-Dez,Sul,Licenças SaaS,7,1780.91,20.0
+TRX-11845,04-Abr,Centro-Oeste,Cloud & Storage,26,11205.95,9.0
+TRX-11846,02-Fev,Norte,Cloud & Storage,2,3352.65,19.0
+TRX-11847,03-Mar,Sudeste,Licenças SaaS,23,2458.65,17.0
+TRX-11848,12-Dez,Centro-Oeste,Cloud & Storage,23,7838.42,14.0
+TRX-11849,09-Set,Sul,Cibersegurança,27,8444.68,5.0
+TRX-11850,05-Mai,Sudeste,Hardware & Servidores,21,2888.14,21.0
+TRX-11851,11-Nov,Sul,Consultoria Dados,16,4587.09,9.0
+TRX-11852,11-Nov,Sudeste,Licenças SaaS,9,4183.86,19.0
+TRX-11853,11-Nov,Norte,Licenças SaaS,13,609.34,11.0
+TRX-11854,12-Dez,Centro-Oeste,Cloud & Storage,28,1544.86,10.0
+TRX-11855,04-Abr,Sul,Licenças SaaS,27,7061.87,17.0
+TRX-11856,10-Out,Sudeste,Hardware & Servidores,19,2227.88,17.0
+TRX-11857,07-Jul,Sudeste,Hardware & Servidores,20,5401.3,8.0
+TRX-11858,11-Nov,Sudeste,Hardware & Servidores,17,4541.33,21.0
+TRX-11859,10-Out,Nordeste,Cibersegurança,6,8434.04,13.0
+TRX-11860,11-Nov,Nordeste,Cloud & Storage,4,1577.4,14.0
+TRX-11861,09-Set,Sudeste,Cibersegurança,1,4945.5,13.0
+TRX-11862,03-Mar,Sudeste,Hardware & Servidores,18,3668.29,8.0
+TRX-11863,08-Ago,Sudeste,Cloud & Storage,19,2290.78,18.0
+TRX-11864,12-Dez,Sul,Licenças SaaS,9,2280.35,15.0
+TRX-11865,12-Dez,Sudeste,Cloud & Storage,13,4437.57,10.0
+TRX-11866,01-Jan,Sudeste,Licenças SaaS,8,5763.42,19.0
+TRX-11867,03-Mar,Centro-Oeste,Cloud & Storage,23,3989.17,14.0
+TRX-11868,03-Mar,Centro-Oeste,Licenças SaaS,13,4070.68,14.0
+TRX-11869,10-Out,Sul,Cibersegurança,15,2768.27,23.0
+TRX-11870,11-Nov,Sudeste,Cloud & Storage,11,2890.19,6.0
+TRX-11871,04-Abr,Sul,Cloud & Storage,12,2286.77,6.0
+TRX-11872,07-Jul,Sul,Cibersegurança,14,2732.33,7.0
+TRX-11873,11-Nov,Nordeste,Licenças SaaS,4,5633.8,16.0
+TRX-11874,10-Out,Sul,Cloud & Storage,1,6058.17,12.0
+TRX-11875,08-Ago,Sudeste,Cloud & Storage,24,1670.17,13.0
+TRX-11876,08-Ago,Sul,Licenças SaaS,4,2137.34,9.0
+TRX-11877,07-Jul,Nordeste,Licenças SaaS,19,2412.07,22.0
+TRX-11878,05-Mai,Sudeste,Cloud & Storage,9,3671.58,24.0
+TRX-11879,08-Ago,Sul,Cloud & Storage,10,1281.71,18.0
+TRX-11880,09-Set,Sudeste,Cloud & Storage,4,2161.83,6.0
+TRX-11881,11-Nov,Centro-Oeste,Cibersegurança,20,1555.22,
+TRX-11882,09-Set,Norte,Cloud & Storage,9,4965.72,18.0
+TRX-11883,10-Out,Sul,Consultoria Dados,13,3754.5,14.0
+TRX-11884,03-Mar,Nordeste,Cloud & Storage,12,2833.72,19.0
+TRX-11885,07-Jul,Norte,Cloud & Storage,11,1917.68,20.0
+TRX-11886,01-Jan,Nordeste,Cibersegurança,12,2862.32,24.0
+TRX-11887,04-Abr,Sudeste,Consultoria Dados,18,2651.68,11.0
+TRX-11888,10-Out,Sudeste,Licenças SaaS,12,11075.97,14.0
+TRX-11889,12-Dez,Sudeste,Cloud & Storage,16,7317.78,12.0
+TRX-11890,02-Fev,Centro-Oeste,Licenças SaaS,5,2443.14,4.0
+TRX-11891,06-Jun,Sudeste,Cibersegurança,20,4261.5,18.0
+TRX-11892,11-Nov,Centro-Oeste,Cloud & Storage,25,7070.85,17.0
+TRX-11893,04-Abr,Sudeste,Hardware & Servidores,12,2442.65,11.0
+TRX-11894,08-Ago,Centro-Oeste,Cloud & Storage,21,1523.67,6.0
+TRX-11895,10-Out,Nordeste,Cloud & Storage,25,1190.4,12.0
+TRX-11896,09-Set,Sul,Consultoria Dados,11,8751.44,18.0
+TRX-11897,03-Mar,Nordeste,Cloud & Storage,9,3380.6,21.0
+TRX-11898,05-Mai,Sudeste,Consultoria Dados,18,4625.6,10.0
+TRX-11899,11-Nov,Nordeste,Cibersegurança,25,2635.28,20.0
+TRX-11900,08-Ago,Sudeste,Cibersegurança,3,1678.85,17.0
+TRX-11901,01-Jan,Sudeste,Cibersegurança,20,1895.34,16.0
+TRX-11902,10-Out,Nordeste,Hardware & Servidores,17,1600.91,8.0
+TRX-11903,01-Jan,Sudeste,Cloud & Storage,14,6650.83,8.0
+TRX-11904,10-Out,Nordeste,Hardware & Servidores,1,10098.73,10.0
+TRX-11905,04-Abr,Sudeste,Cibersegurança,17,3921.42,12.0
+TRX-11906,12-Dez,Sudeste,Cloud & Storage,25,1427.14,23.0
+TRX-11907,06-Jun,Sudeste,Licenças SaaS,27,5285.8,11.0
+TRX-11908,05-Mai,Sudeste,Cloud & Storage,8,8710.11,18.0
+TRX-11909,03-Mar,Sudeste,Hardware & Servidores,5,7198.18,12.0
+TRX-11910,05-Mai,Sul,Cloud & Storage,5,3755.83,16.0
+TRX-11911,11-Nov,Sudeste,Consultoria Dados,9,3286.53,14.0
+TRX-11912,12-Dez,Sul,Licenças SaaS,3,3736.27,15.0
+TRX-11913,06-Jun,Norte,Cloud & Storage,19,8488.03,16.0
+TRX-11914,06-Jun,Norte,Cibersegurança,23,6274.43,13.0
+TRX-11915,10-Out,Sudeste,Hardware & Servidores,9,2978.75,16.0
+TRX-11916,12-Dez,Centro-Oeste,Consultoria Dados,22,2930.43,20.0
+TRX-11917,08-Ago,Sudeste,Licenças SaaS,18,2798.67,10.0
+TRX-11918,06-Jun,Centro-Oeste,Cloud & Storage,16,1915.99,20.0
+TRX-11919,06-Jun,Nordeste,Cibersegurança,1,9215.99,13.0
+TRX-11920,10-Out,Norte,Hardware & Servidores,2,66100.0,12.0
+TRX-11921,01-Jan,Sudeste,Consultoria Dados,14,5264.17,17.0
+TRX-11922,09-Set,Nordeste,Hardware & Servidores,14,2490.08,12.0
+TRX-11923,05-Mai,Sudeste,Cibersegurança,1,2806.81,16.0
+TRX-11924,11-Nov,Norte,Cloud & Storage,26,3554.53,15.0
+TRX-11925,02-Fev,Sul,Licenças SaaS,26,5455.65,4.0
+TRX-11926,08-Ago,Sudeste,Licenças SaaS,25,3234.1,16.0
+TRX-11927,07-Jul,Centro-Oeste,Licenças SaaS,16,1825.33,7.0
+TRX-11928,09-Set,Centro-Oeste,Cibersegurança,15,3875.39,7.0
+TRX-11929,01-Jan,Sul,Licenças SaaS,26,2325.44,16.0
+TRX-11930,08-Ago,Norte,Hardware & Servidores,15,10440.99,17.0
+TRX-11931,08-Ago,Sul,Cloud & Storage,12,3232.58,20.0
+TRX-11932,08-Ago,Sudeste,Cloud & Storage,16,2479.52,9.0
+TRX-11933,08-Ago,Sul,Consultoria Dados,14,13816.52,10.0
+TRX-11934,09-Set,Sudeste,Cloud & Storage,29,6187.45,16.0
+TRX-11935,11-Nov,Sudeste,Licenças SaaS,24,2136.87,20.0
+TRX-11936,04-Abr,Sudeste,Licenças SaaS,15,2289.08,15.0
+TRX-11937,11-Nov,Sul,Cloud & Storage,23,5209.39,10.0
+TRX-11938,07-Jul,Sul,Cloud & Storage,15,3937.34,22.0
+TRX-11939,02-Fev,Sudeste,Cloud & Storage,19,6826.82,13.0
+TRX-11940,01-Jan,Centro-Oeste,Cloud & Storage,8,2488.06,13.0
+TRX-11941,05-Mai,Nordeste,Cloud & Storage,2,6037.35,7.0
+TRX-11942,11-Nov,Sul,Hardware & Servidores,2,893.47,18.0
+TRX-11943,10-Out,Sudeste,Licenças SaaS,27,3462.04,18.0
+TRX-11944,11-Nov,Sul,Consultoria Dados,10,2562.74,10.0
+TRX-11945,07-Jul,Sul,Cloud & Storage,3,2847.57,23.0
+TRX-11946,06-Jun,Centro-Oeste,Cloud & Storage,23,3580.05,11.0
+TRX-11947,03-Mar,Sudeste,Hardware & Servidores,17,8022.68,17.0
+TRX-11948,05-Mai,Sul,Licenças SaaS,8,1807.81,15.0
+TRX-11949,06-Jun,Sul,Licenças SaaS,28,923.13,4.0
+TRX-11950,02-Fev,Sul,Hardware & Servidores,23,1949.38,17.0
+TRX-11951,04-Abr,Nordeste,Hardware & Servidores,4,7439.68,16.0
+TRX-11952,08-Ago,Norte,Licenças SaaS,14,1313.9,5.0
+TRX-11953,10-Out,Sul,Cibersegurança,21,2639.21,22.0
+TRX-11954,12-Dez,Sul,Hardware & Servidores,10,6605.95,16.0
+TRX-11955,12-Dez,Nordeste,Cibersegurança,29,3684.98,20.0
+TRX-11956,09-Set,Norte,Cloud & Storage,1,7971.75,5.0
+TRX-11957,06-Jun,Sudeste,Cloud & Storage,4,1019.76,12.0
+TRX-11958,09-Set,Sul,Licenças SaaS,1,3105.57,20.0
+TRX-11959,11-Nov,Sul,Licenças SaaS,17,9128.58,6.0
+TRX-11960,02-Fev,Sudeste,Cloud & Storage,26,1840.01,12.0
+TRX-11961,06-Jun,Sudeste,Consultoria Dados,17,7499.76,16.0
+TRX-11962,11-Nov,Sul,Cloud & Storage,7,3283.95,5.0
+TRX-11963,06-Jun,Sudeste,Licenças SaaS,23,5075.52,7.0
+TRX-11964,08-Ago,Sul,Cloud & Storage,20,8708.26,21.0
+TRX-11965,08-Ago,Nordeste,Licenças SaaS,15,5061.38,14.0
+TRX-11966,03-Mar,Sudeste,Consultoria Dados,13,2606.3,20.0
+TRX-11967,06-Jun,Sul,Hardware & Servidores,28,5515.63,15.0
+TRX-11968,05-Mai,Sudeste,Consultoria Dados,2,2489.48,26.0
+TRX-11969,01-Jan,Sudeste,Licenças SaaS,28,4571.92,16.0
+TRX-11970,01-Jan,Norte,Licenças SaaS,19,1696.47,20.0
+TRX-11971,11-Nov,Sudeste,Cloud & Storage,24,3900.7,13.0
+TRX-11972,04-Abr,Sudeste,Licenças SaaS,13,8291.95,15.0
+TRX-11973,07-Jul,Centro-Oeste,Licenças SaaS,24,3152.02,17.0
+TRX-11974,05-Mai,Sudeste,Cloud & Storage,11,7792.36,18.0
+TRX-11975,12-Dez,Nordeste,Consultoria Dados,27,28587.62,14.0
+TRX-11976,04-Abr,Sudeste,Hardware & Servidores,22,3756.28,14.0
+TRX-11977,06-Jun,Sudeste,Hardware & Servidores,15,5705.72,17.0
+TRX-11978,11-Nov,Sul,Cibersegurança,10,5218.48,17.0
+TRX-11979,11-Nov,Sudeste,Cibersegurança,9,4430.72,9.0
+TRX-11980,03-Mar,Nordeste,Cibersegurança,27,6387.72,15.0
+TRX-11981,11-Nov,Nordeste,Hardware & Servidores,28,3257.57,16.0
+TRX-11982,06-Jun,Sul,Consultoria Dados,9,2488.28,9.0
+TRX-11983,07-Jul,Sul,Hardware & Servidores,20,1419.26,19.0
+TRX-11984,03-Mar,Nordeste,Hardware & Servidores,28,3063.17,16.0
+TRX-11985,02-Fev,Norte,Hardware & Servidores,1,6876.96,26.0
+TRX-11986,10-Out,Sul,Cibersegurança,17,2077.94,14.0
+TRX-11987,07-Jul,Sudeste,Consultoria Dados,12,4493.29,20.0
+TRX-11988,06-Jun,Sudeste,Licenças SaaS,10,3533.27,17.0
+TRX-11989,10-Out,Nordeste,Licenças SaaS,5,2556.85,24.0
+TRX-11990,10-Out,Sul,Hardware & Servidores,29,1147.71,9.0
+TRX-11991,03-Mar,Sul,Cibersegurança,18,9282.22,12.0
+TRX-11992,09-Set,Centro-Oeste,Cloud & Storage,15,5357.08,9.0
+TRX-11993,03-Mar,Sul,Cloud & Storage,6,21642.99,14.0
+TRX-11994,10-Out,Sudeste,Hardware & Servidores,7,7720.38,8.0
+TRX-11995,09-Set,Sudeste,Licenças SaaS,17,9148.58,6.0
+TRX-11996,12-Dez,Sudeste,Cibersegurança,6,1227.73,3.0
+TRX-11997,01-Jan,Sudeste,Licenças SaaS,8,1213.86,3.0
+TRX-11998,01-Jan,Sudeste,Cloud & Storage,12,3934.36,17.0
+TRX-11999,05-Mai,Sul,Hardware & Servidores,21,1814.79,12.0
